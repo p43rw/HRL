@@ -41,6 +41,121 @@ jobs:
               print(f'Error fetching Boulder K-index: {e}')
           "
 
+      - name: Fetch Tropospheric Ducting Forecast
+        run: |
+          python3 -c "
+          import json
+          import urllib.request
+          from datetime import datetime
+
+          locations = {
+              'EU-W': {'lat': 52.1, 'lon': 5.1, 'name': 'Western Europe (North Sea / UK)'},
+              'US-E': {'lat': 40.7, 'lon': -74.0, 'name': 'US Northeast & Mid-Atlantic'},
+              'US-W': {'lat': 37.7, 'lon': -122.4, 'name': 'US West Coast / Pacific'}
+          }
+
+          tropo_results = []
+          for code, loc in locations.items():
+              url = f'https://api.open-meteo.com/v1/forecast?latitude={loc[\"lat\"]}&longitude={loc[\"lon\"]}&hourly=pressure_msl,relative_humidity_2m&forecast_days=1'
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'HamRadioLive-Bot/1.0'})
+                  with urllib.request.urlopen(req, timeout=10) as response:
+                      data = json.loads(response.read().decode())
+                      hourly = data.get('hourly', {})
+                      pressures = hourly.get('pressure_msl', [1013])
+                      humidities = hourly.get('relative_humidity_2m', [50])
+                      
+                      cur_p = pressures[0] if pressures else 1013
+                      cur_h = humidities[0] if humidities else 50
+                      
+                      p_score = max(0, min(50, (cur_p - 1013) * 4))
+                      h_score = max(0, (100 - cur_h) * 0.3)
+                      total_score = int(min(100, max(10, p_score + h_score + 15)))
+                      
+                      status = 'Verified Active Opening (Level 3)' if total_score >= 70 else ('Moderate Ducting (Level 2)' if total_score >= 40 else 'Normal / Weak (Level 1)')
+                      
+                      tropo_results.append({
+                          'region_code': code,
+                          'name': loc['name'],
+                          'pressure': cur_p,
+                          'score': total_score,
+                          'status': status,
+                          'live_verified': True
+                      })
+              except Exception as e:
+                  print(f'Error fetching tropo for {code}: {e}')
+                  tropo_results.append({
+                      'region_code': code,
+                      'name': loc['name'],
+                      'pressure': 1013,
+                      'score': 15,
+                      'status': 'Normal / Weak (Level 1)',
+                      'live_verified': False
+                  })
+
+          output = {
+              'updated': datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC'),
+              'regions': tropo_results
+          }
+
+          with open('tropo-cache.json', 'w') as f:
+              json.dump(output, f, indent=2)
+          print('Successfully generated tropo-cache.json')
+          "
+
+      - name: Commit and push changes if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Safely stage only files that were successfully created
+          [ -f solar-cache.xml ] && git add solar-cache.xml
+          [ -f boulder-cache.json ] && git add boulder-cache.json
+          [ -f tropo-cache.json ] && git add tropo-cache.json
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update telemetry cache [skip ci]" && git push)name: Auto-Poll Ham Radio Telemetry
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-telemetry:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Fetch Latest Solar & Boulder Telemetry
+        run: |
+          python3 -c "
+          import urllib.request
+
+          try:
+              req = urllib.request.urlopen('https://www.hamqsl.com/solarxml.php', timeout=15)
+              with open('solar-cache.xml', 'w') as f:
+                  f.write(req.read().decode('utf-8'))
+              print('Successfully fetched HamQsl XML')
+          except Exception as e:
+              print(f'Error fetching HamQsl: {e}')
+
+          try:
+              req = urllib.request.urlopen('https://services.swpc.noaa.gov/json/boulder_k_index_1m.json', timeout=15)
+              with open('boulder-cache.json', 'w') as f:
+                  f.write(req.read().decode('utf-8'))
+              print('Successfully fetched NOAA Boulder JSON')
+          except Exception as e:
+              print(f'Error fetching Boulder K-index: {e}')
+          "
+
       - name: Commit and push changes if updated
         run: |
           git config --global user.name "github-actions[bot]"
