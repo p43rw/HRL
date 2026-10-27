@@ -1,0 +1,54 @@
+name: Auto-Poll Ham Radio Telemetry
+
+on:
+  schedule:
+    # Runs every hour at minute 0
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to manually test it anytime from the browser
+
+jobs:
+  update-telemetry:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Fetch Latest Solar & Boulder Telemetry
+        run: |
+          python3 -c "
+          import urllib.request
+
+          # 1. Fetch HamQsl Solar XML
+          try:
+              req = urllib.request.urlopen('https://www.hamqsl.com/solarxml.php', timeout=10)
+              xml_data = req.read().decode('utf-8')
+              with open('solar-cache.xml', 'w') as f:
+                  f.write(xml_data)
+              print('Successfully fetched HamQsl XML')
+          except Exception as e:
+              print(f'Error fetching HamQsl: {e}')
+
+          # 2. Fetch NOAA Boulder K-Index JSON
+          try:
+              req = urllib.request.urlopen('https://services.swpc.noaa.gov/json/station-k-index.json', timeout=10)
+              json_data = req.read().decode('utf-8')
+              with open('boulder-cache.json', 'w') as f:
+                  f.write(json_data)
+              print('Successfully fetched NOAA Boulder JSON')
+          except Exception as e:
+              print(f'Error fetching Boulder K-index: {e}')
+          "
+
+      - name: Commit and push changes if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add solar-cache.xml boulder-cache.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update telemetry cache [skip ci]" && git push)
