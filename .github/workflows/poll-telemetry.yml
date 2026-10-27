@@ -108,61 +108,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Safely stage only files that were successfully created
           [ -f solar-cache.xml ] && git add solar-cache.xml
           [ -f boulder-cache.json ] && git add boulder-cache.json
           [ -f tropo-cache.json ] && git add tropo-cache.json
-          
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update telemetry cache [skip ci]" && git push)name: Auto-Poll Ham Radio Telemetry
-
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-telemetry:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Fetch Latest Solar & Boulder Telemetry
-        run: |
-          python3 -c "
-          import urllib.request
-
-          try:
-              req = urllib.request.urlopen('https://www.hamqsl.com/solarxml.php', timeout=15)
-              with open('solar-cache.xml', 'w') as f:
-                  f.write(req.read().decode('utf-8'))
-              print('Successfully fetched HamQsl XML')
-          except Exception as e:
-              print(f'Error fetching HamQsl: {e}')
-
-          try:
-              req = urllib.request.urlopen('https://services.swpc.noaa.gov/json/boulder_k_index_1m.json', timeout=15)
-              with open('boulder-cache.json', 'w') as f:
-                  f.write(req.read().decode('utf-8'))
-              print('Successfully fetched NOAA Boulder JSON')
-          except Exception as e:
-              print(f'Error fetching Boulder K-index: {e}')
-          "
-
-      - name: Commit and push changes if updated
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Safely stage only files that were successfully created
-          [ -f solar-cache.xml ] && git add solar-cache.xml
-          [ -f boulder-cache.json ] && git add boulder-cache.json
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update telemetry cache [skip ci]" && git push)
