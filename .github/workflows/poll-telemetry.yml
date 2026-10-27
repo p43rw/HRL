@@ -33,7 +33,7 @@ jobs:
               print(f'Error fetching HamQsl: {e}')
 
           try:
-              req = urllib.request.urlopen('https://services.swpc.noaa.gov/json/station-k-index.json', timeout=15)
+              req = urllib.request.urlopen('https://services.swpc.noaa.gov/json/boulder_k_index_1m.json', timeout=15)
               with open('boulder-cache.json', 'w') as f:
                   f.write(req.read().decode('utf-8'))
               print('Successfully fetched NOAA Boulder JSON')
@@ -46,7 +46,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Safely stage only files that exist
+          # Safely stage only files that were successfully created
           [ -f solar-cache.xml ] && git add solar-cache.xml
           [ -f boulder-cache.json ] && git add boulder-cache.json
           
