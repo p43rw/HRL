@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28 06:42:21 UTC",
+  "updated": "2026-10-28 09:48:56 UTC",
   "regions": [
     {
       "region_code": "EU-W",
       "name": "Western Europe (North Sea / UK)",
-      "pressure": 1020.2,
-      "score": 46,
+      "pressure": 1020.1,
+      "score": 45,
       "status": "Moderate Ducting (Level 2)",
       "live_verified": true
     },
