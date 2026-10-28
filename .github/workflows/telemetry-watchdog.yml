@@ -1,0 +1,22 @@
+name: Telemetry Watchdog
+
+on:
+  workflow_run:
+    workflows: ["Auto-Poll Ham Radio Telemetry"]
+    types:
+      - completed
+
+jobs:
+  auto-retry:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    steps:
+      - name: Rerun failed telemetry workflow
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+        run: |
+          echo "Telemetry poll failed on run $RUN_ID. Triggering automatic retry..."
+          gh run rerun "$RUN_ID" --failed
