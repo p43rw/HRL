@@ -1,204 +1,2526 @@
 {
-  "updated": "2026-10-28 21:06:09 UTC",
-  "count": 33,
+  "updated": "2026-10-28 21:13:16 UTC",
+  "count": 360,
   "contests": [
     {
-      "title": "SKCC Sprint",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003feivt",
-      "description": "0000Z-0200Z, Oct 28",
-      "pubDate": ""
+      "month": "October 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Oct 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Oct 1 — October 2026"
     },
     {
-      "title": "Phone Weekly Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fyglt",
-      "description": "0230Z-0300Z, Oct 28",
-      "pubDate": ""
-    },
-    {
-      "title": "A1Club AWT",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fzbkb",
-      "description": "1145Z-1300Z, Oct 28",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "CWops Test (CWT)",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fodvm",
-      "description": "1300Z-1400Z, Oct 28",
-      "pubDate": ""
+      "time": "0300Z-0400Z, Oct 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Oct 1 — October 2026"
     },
     {
-      "title": "Mini-Test 40",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g06fb",
-      "description": "1700Z-1759Z, Oct 28",
-      "pubDate": ""
+      "month": "October 2026",
+      "title": "SARL 80m QSO Party",
+      "time": "1700Z-2000Z, Oct 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=158",
+      "description": "1700Z-2000Z, Oct 1 — October 2026"
     },
     {
-      "title": "Mini-Test 80",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g11ag",
-      "description": "1800Z-1859Z, Oct 28",
-      "pubDate": ""
+      "month": "October 2026",
+      "title": "SKCC Sprint Europe",
+      "time": "2000Z-2200Z, Oct 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=629",
+      "description": "2000Z-2200Z, Oct 1 — October 2026"
     },
     {
-      "title": "CWops Test (CWT)",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fp8qq",
-      "description": "1900Z-2000Z, Oct 28",
-      "pubDate": ""
-    },
-    {
-      "title": "UKEICC 80m Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fa0yv",
-      "description": "2000Z-2100Z, Oct 28",
-      "pubDate": ""
-    },
-    {
-      "title": "CWops Test (CWT)",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fqbbm",
-      "description": "0300Z-0400Z, Oct 29",
-      "pubDate": ""
-    },
-    {
-      "title": "CWops Test (CWT)",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003frdwi",
-      "description": "0700Z-0800Z, Oct 29",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "NCCC FT4 Sprint",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g36h1",
-      "description": "0100Z-0130Z, Oct 30",
-      "pubDate": ""
+      "time": "0100Z-0130Z, Oct 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Oct 2 — October 2026"
     },
     {
-      "title": "Weekly RTTY Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g4929",
-      "description": "0145Z-0215Z, Oct 30",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "NCCC Sprint",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g23cs",
-      "description": "0230Z-0300Z, Oct 30",
-      "pubDate": ""
+      "time": "0230Z-0300Z, Oct 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Oct 2 — October 2026"
     },
     {
-      "title": "Zombie Shuffle",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fn3oo",
-      "description": "1500-2400 local, Oct 30",
-      "pubDate": ""
+      "month": "October 2026",
+      "title": "George Batterson 1936 QSO Party",
+      "time": "2300Z, Oct 2 to 0300Z, Oct 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=770",
+      "description": "2300Z, Oct 2 to 0300Z, Oct 5 — October 2026"
     },
     {
+      "month": "October 2026",
+      "title": "TRC DX Contest",
+      "time": "0600Z, Oct 3 to 1800Z, Oct 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=536",
+      "description": "0600Z, Oct 3 to 1800Z, Oct 4 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Worked All Provinces of China DX Contest",
+      "time": "0600Z, Oct 3 to 0559Z, Oct 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=546",
+      "description": "0600Z, Oct 3 to 0559Z, Oct 4 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Russian WW Digital Contest",
+      "time": "1200Z, Oct 3 to 1159Z, Oct 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=570",
+      "description": "1200Z, Oct 3 to 1159Z, Oct 4 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "California QSO Party",
+      "time": "1600Z, Oct 3 to 2200Z, Oct 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=140",
+      "description": "1600Z, Oct 3 to 2200Z, Oct 4 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "50 MHz Fall Sprint",
+      "time": "1800Z-2200Z, Oct 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=170",
+      "description": "1800Z-2200Z, Oct 3 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "UBA ON Contest, SSB",
+      "time": "0600Z-1000Z, Oct 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=144",
+      "description": "0600Z-1000Z, Oct 4 — October 2026"
+    },
+    {
+      "month": "October 2026",
       "title": "K1USN Slow Speed Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003ftbhl",
-      "description": "2000Z-2100Z, Oct 30",
-      "pubDate": ""
+      "time": "0000Z-0100Z, Oct 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Oct 5 — October 2026"
     },
     {
-      "title": "ARRL EME Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003drkyp",
-      "description": "0000Z, Oct 31 to 2359Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "UK/EI DX Contest, SSB",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=0039u4ic",
-      "description": "1200Z, Oct 31 to 1200Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "Russian WW MultiMode Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003b7f6m",
-      "description": "1200Z, Oct 31 to 1159Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "North American SSB Sprint Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gebbm",
-      "description": "0000Z-0400Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "Silent Key Memorial Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003hrmbf",
-      "description": "0600Z-0859Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "EANET Sprint",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gclty",
-      "description": "0800Z-1200Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "Classic Exchange, CW",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fhqod",
-      "description": "1400Z, Nov 1 to 0800Z, Nov 2 and 1400Z, Mar 3 to 0800Z, Nov 4",
-      "pubDate": ""
-    },
-    {
-      "title": "High Speed Club CW Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gd11k",
-      "description": "1400Z-1700Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "Real Time Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003fnbim",
-      "description": "1600Z-2000Z, Nov 1",
-      "pubDate": ""
-    },
-    {
-      "title": "K1USN Slow Speed Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gjguh",
-      "description": "0000Z-0100Z, Nov 2",
-      "pubDate": ""
-    },
-    {
-      "title": "ICWC Medium Speed Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003glebk",
-      "description": "1300Z-1400Z, Nov 2",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "OK1WC Memorial (MWC)",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003goebf",
-      "description": "1630Z-1729Z, Nov 2",
-      "pubDate": ""
+      "time": "1630Z-1729Z, Oct 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Oct 5 — October 2026"
     },
     {
+      "month": "October 2026",
       "title": "ICWC Medium Speed Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gmgwg",
-      "description": "1900Z-2000Z, Nov 2",
-      "pubDate": ""
+      "time": "1900Z-2000Z, Oct 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Oct 5 — October 2026"
     },
     {
-      "title": "RSGB 80m Autumn Series, Data",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g83uh",
-      "description": "2000Z-2130Z, Nov 2",
-      "pubDate": ""
-    },
-    {
-      "title": "ARS Spartan Sprint",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003g5yff",
-      "description": "0100Z-0300Z, Nov 3",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "Worldwide Sideband Activity Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gpgw0",
-      "description": "0100Z-0159Z, Nov 3",
-      "pubDate": ""
+      "time": "0100Z-0159Z, Oct 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Oct 6 — October 2026"
     },
     {
-      "title": "ICWC Medium Speed Test",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gnjhc",
-      "description": "0300Z-0400Z, Nov 3",
-      "pubDate": ""
-    },
-    {
+      "month": "October 2026",
       "title": "Tuesday's Telegraphy Contest",
-      "link": "https://www.contestcalendar.com/weeklycontdetails.php?ref=003gwbw4",
-      "description": "1930Z-2030Z, Nov 3",
-      "pubDate": ""
+      "time": "1930Z-2030Z, Oct 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Oct 6 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Oct 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Oct 7 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Oct 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Oct 7 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Oct 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Oct 7 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "UKEICC 80m Contest",
+      "time": "2000Z-2100Z, Oct 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=583",
+      "description": "2000Z-2100Z, Oct 7 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Oct 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Oct 8 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Oct 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Oct 8 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Oct 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Oct 9 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "2000Z-2100Z, Oct 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "2000Z-2100Z, Oct 9 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "QRP ARCI Fall QSO Party",
+      "time": "0000Z-2359Z, Oct 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=168",
+      "description": "0000Z-2359Z, Oct 10 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Oceania DX Contest, CW",
+      "time": "0600Z, Oct 10 to 0600Z, Oct 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=151",
+      "description": "0600Z, Oct 10 to 0600Z, Oct 11 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Scandinavian Activity Contest, SSB",
+      "time": "1200Z, Oct 10 to 1200Z, Oct 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=131",
+      "description": "1200Z, Oct 10 to 1200Z, Oct 11 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Pennsylvania QSO Party",
+      "time": "1600Z, Oct 10 to 0400Z, Oct 11 and 1300Z-2200Z, Oct 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=153",
+      "description": "1600Z, Oct 10 to 0400Z, Oct 11 and 1300Z-2200Z, Oct 11 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "PODXS 070 Club 160m Great Pumpkin Sprint",
+      "time": "2000Z, Oct 10 to 2000Z, Oct 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=438",
+      "description": "2000Z, Oct 10 to 2000Z, Oct 11 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0000Z-0200Z, Oct 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0000Z-0200Z, Oct 12 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Oct 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Oct 12 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Oct 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Oct 12 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Oct 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Oct 13 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Oct 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Oct 13 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Oct 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Oct 14 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Oct 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Oct 14 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Oct 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Oct 14 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "RSGB 80m Autumn Series, Data",
+      "time": "1900Z-2030Z, Oct 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=617",
+      "description": "1900Z-2030Z, Oct 14 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Oct 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Oct 15 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Oct 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Oct 15 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Oct 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Oct 15 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Oct 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Oct 16 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "2000Z-2100Z, Oct 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "2000Z-2100Z, Oct 16 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "902 MHz and Up Fall Sprint",
+      "time": "0800 local - 1400 local, Oct 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=162",
+      "description": "0800 local - 1400 local, Oct 17 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Worked All Germany Contest",
+      "time": "1500Z, Oct 17 to 1459Z, Oct 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=163",
+      "description": "1500Z, Oct 17 to 1459Z, Oct 18 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Feld Hell Sprint",
+      "time": "2000Z-2359Z, Oct 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=436",
+      "description": "2000Z-2359Z, Oct 17 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Asia-Pacific Fall Sprint, CW",
+      "time": "0000Z-0200Z, Oct 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=164",
+      "description": "0000Z-0200Z, Oct 18 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Illinois QSO Party",
+      "time": "1700Z, Oct 18 to 0100Z, Oct 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=167",
+      "description": "1700Z, Oct 18 to 0100Z, Oct 19 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Oct 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Oct 19 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Oct 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Oct 19 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Oct 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Oct 19 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Oct 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Oct 20 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Oct 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Oct 21 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Oct 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Oct 21 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Oct 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Oct 21 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "AGCW Semi-Automatic Key Evening",
+      "time": "1900Z-2030Z, Oct 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=255",
+      "description": "1900Z-2030Z, Oct 21 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "IRTS 80m Counties Contest",
+      "time": "2000Z-2100Z, Oct 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=756",
+      "description": "2000Z-2100Z, Oct 21 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Oct 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Oct 22 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Oct 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Oct 23 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Oct 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Oct 23 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CQ Worldwide DX Contest, SSB",
+      "time": "0000Z, Oct 24 to 2359Z, Oct 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=172",
+      "description": "0000Z, Oct 24 to 2359Z, Oct 25 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "QCX Challenge",
+      "time": "1300Z-1400Z, Oct 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "1300Z-1400Z, Oct 26 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "OK1WC Memorial (MWC)",
+      "time": "1630Z-1729Z, Oct 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Oct 26 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Oct 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Oct 26 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Worldwide Sideband Activity Contest",
+      "time": "0100Z-0159Z, Oct 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Oct 27 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Oct 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Oct 27 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Oct 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Oct 28 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Oct 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Oct 28 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Oct 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Oct 28 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Oct 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Oct 28 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Oct 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Oct 29 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Oct 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Oct 30 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Oct 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Oct 30 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "2000Z-2100Z, Oct 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "2000Z-2100Z, Oct 30 — October 2026"
+    },
+    {
+      "month": "October 2026",
+      "title": "UK/EI DX Contest, SSB",
+      "time": "1200Z, Oct 31 to 1200Z, Nov 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=596",
+      "description": "1200Z, Oct 31 to 1200Z, Nov 1 — October 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "North American SSB Sprint Contest",
+      "time": "0000Z-0400Z, Nov 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=242",
+      "description": "0000Z-0400Z, Nov 1 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "EANET Sprint",
+      "time": "0800Z-1200Z, Nov 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=550",
+      "description": "0800Z-1200Z, Nov 1 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "High Speed Club CW Contest",
+      "time": "1400Z-1700Z, Nov 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=264",
+      "description": "1400Z-1700Z, Nov 1 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Nov 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Nov 2 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "OK1WC Memorial (MWC)",
+      "time": "1630Z-1729Z, Nov 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Nov 2 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "RSGB 80m Autumn Series, Data",
+      "time": "2000Z-2130Z, Nov 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=617",
+      "description": "2000Z-2130Z, Nov 2 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Worldwide Sideband Activity Contest",
+      "time": "0100Z-0159Z, Nov 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Nov 3 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Nov 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Nov 3 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Nov 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Nov 4 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Nov 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Nov 4 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Nov 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Nov 4 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Nov 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Nov 4 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Nov 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Nov 5 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Nov 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Nov 5 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NRAU 10m Activity Contest",
+      "time": "1800Z-1900Z, Nov 5 (CW) and 1900Z-2000Z, Nov 5 (SSB) and 2000Z-2100Z, Nov 5 (FM) and 2100Z-2200Z, Nov 5 (Dig)",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=562",
+      "description": "1800Z-1900Z, Nov 5 (CW) and 1900Z-2000Z, Nov 5 (SSB) and 2000Z-2100Z, Nov 5 (FM) and 2100Z-2200Z, Nov 5 (Dig) — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Nov 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Nov 6 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "QRP Fox Hunt",
+      "time": "0200Z-0330Z, Nov 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
+      "description": "0200Z-0330Z, Nov 6 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "2000Z-2100Z, Nov 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "2000Z-2100Z, Nov 6 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "IPARC Contest, CW",
+      "time": "0600Z-1800Z, Nov 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=174",
+      "description": "0600Z-1800Z, Nov 7 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "IPARC Contest, SSB",
+      "time": "0600Z-1800Z, Nov 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=175",
+      "description": "0600Z-1800Z, Nov 8 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Nov 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Nov 9 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Nov 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 9 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Nov 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Nov 9 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Nov 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Nov 10 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Nov 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Nov 10 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Nov 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Nov 11 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Nov 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Nov 11 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Nov 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Nov 11 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Nov 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Nov 11 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Nov 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Nov 12 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Nov 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Nov 12 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Nov 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Nov 13 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Nov 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Nov 13 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "WAE DX Contest, RTTY",
+      "time": "0000Z, Nov 14 to 2359Z, Nov 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=183",
+      "description": "0000Z, Nov 14 to 2359Z, Nov 15 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "10-10 Int. Fall Contest, Digital",
+      "time": "0001Z, Nov 14 to 2359Z, Nov 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=464",
+      "description": "0001Z, Nov 14 to 2359Z, Nov 15 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "SKCC Weekend Sprintathon",
+      "time": "1200Z, Nov 14 to 2400Z, Nov 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=428",
+      "description": "1200Z, Nov 14 to 2400Z, Nov 15 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CQ-WE Contest",
+      "time": "1900Z-2300Z, Nov 14 (CW/Digital) and 0100Z-0500Z, Nov 15 (Phone) and 1900Z-2300Z, Nov 15 (Phone) and 0100Z-0500Z, Nov 16 (CW/Digital)",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=402",
+      "description": "1900Z-2300Z, Nov 14 (CW/Digital) and 0100Z-0500Z, Nov 15 (Phone) and 1900Z-2300Z, Nov 15 (Phone) and 0100Z-0500Z, Nov 16 (CW/Digital) — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Homebrew and Oldtime Equipment Party",
+      "time": "1300-1500Z, Nov 15 (40m) and 1500-1700Z, Nov 15 (80m)",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=490",
+      "description": "1300-1500Z, Nov 15 (40m) and 1500-1700Z, Nov 15 (80m) — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Nov 15 to 0100Z, Nov 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Nov 15 to 0100Z, Nov 16 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Nov 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 16 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Nov 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Nov 16 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Worldwide Sideband Activity Contest",
+      "time": "0100Z-0159Z, Nov 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Nov 17 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Nov 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Nov 17 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Nov 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Nov 18 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Nov 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Nov 18 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Nov 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Nov 18 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Nov 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Nov 18 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Walk for the Bacon QRP Contest",
+      "time": "0000Z-0100Z, Nov 19 and 0200Z-0300Z, Nov 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=699",
+      "description": "0000Z-0100Z, Nov 19 and 0200Z-0300Z, Nov 20 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Nov 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Nov 19 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Nov 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Nov 19 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Nov 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Nov 20 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Nov 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Nov 20 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "LZ DX Contest",
+      "time": "1200Z, Nov 21 to 1200Z, Nov 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=187",
+      "description": "1200Z, Nov 21 to 1200Z, Nov 22 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "REF 160-Meter Contest",
+      "time": "1700Z-2400Z, Nov 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=606",
+      "description": "1700Z-2400Z, Nov 21 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Feld Hell Sprint",
+      "time": "1900Z-2059Z, Nov 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=436",
+      "description": "1900Z-2059Z, Nov 21 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ARRL Sweepstakes Contest, SSB",
+      "time": "2100Z, Nov 21 to 0300Z, Nov 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=178",
+      "description": "2100Z, Nov 21 to 0300Z, Nov 23 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Nov 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 23 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Nov 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Nov 23 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Nov 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Nov 24 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "UKEICC 80m Contest",
+      "time": "2000Z-2100Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=583",
+      "description": "2000Z-2100Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Nov 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Nov 26 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Nov 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Nov 27 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Nov 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Nov 27 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ARRL EME Contest",
+      "time": "0000Z, Nov 28 to 2359Z, Nov 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=417",
+      "description": "0000Z, Nov 28 to 2359Z, Nov 29 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Nov 30 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 30 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "QCX Challenge",
+      "time": "1900Z-2000Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "1900Z-2000Z, Nov 30 — November 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Worldwide Sideband Activity Contest",
+      "time": "0100Z-0159Z, Dec 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Dec 1 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Dec 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Dec 1 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "QRP Fox Hunt",
+      "time": "0200Z-0330Z, Dec 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
+      "description": "0200Z-0330Z, Dec 2 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Dec 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Dec 2 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Dec 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Dec 2 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Dec 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Dec 2 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "QRP ARCI Topband Sprint",
+      "time": "0000Z-0300Z, Dec 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=193",
+      "description": "0000Z-0300Z, Dec 3 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Walk for the Bacon QRP Contest",
+      "time": "0000Z-0100Z, Dec 3 and 0200Z-0300Z, Dec 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=699",
+      "description": "0000Z-0100Z, Dec 3 and 0200Z-0300Z, Dec 4 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Dec 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Dec 3 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "SKCC Sprint Europe",
+      "time": "2000Z-2200Z, Dec 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=629",
+      "description": "2000Z-2200Z, Dec 3 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Dec 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Dec 4 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Dec 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Dec 4 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ARRL 160-Meter Contest",
+      "time": "2200Z, Dec 4 to 1600Z, Dec 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=194",
+      "description": "2200Z, Dec 4 to 1600Z, Dec 6 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Wake-Up! QRP Sprint",
+      "time": "0600Z-0629Z, Dec 5 and 0630Z-0659Z, Dec 5 and 0700Z-0729Z, Dec 5 and 0730Z-0800Z, Dec 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=301",
+      "description": "0600Z-0629Z, Dec 5 and 0630Z-0659Z, Dec 5 and 0700Z-0729Z, Dec 5 and 0730Z-0800Z, Dec 5 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "INORC Contest",
+      "time": "1400Z, Dec 5 to 1359Z, Dec 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=639",
+      "description": "1400Z, Dec 5 to 1359Z, Dec 6 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Dec 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Dec 7 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "OK1WC Memorial (MWC)",
+      "time": "1630Z-1729Z, Dec 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Dec 7 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ARS Spartan Sprint",
+      "time": "0100Z-0300Z, Dec 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0100Z-0300Z, Dec 8 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Dec 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Dec 8 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Dec 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Dec 8 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "QRP Fox Hunt",
+      "time": "0200Z-0330Z, Dec 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
+      "description": "0200Z-0330Z, Dec 9 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Dec 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Dec 9 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Dec 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Dec 9 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Dec 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Dec 9 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Dec 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Dec 10 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Dec 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Dec 10 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Dec 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Dec 11 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Dec 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Dec 11 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ARRL 10-Meter Contest",
+      "time": "0000Z, Dec 12 to 2400Z, Dec 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=199",
+      "description": "0000Z, Dec 12 to 2400Z, Dec 13 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "TRC Digi Contest",
+      "time": "0600Z, Dec 12 to 1800Z, Dec 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=637",
+      "description": "0600Z, Dec 12 to 1800Z, Dec 13 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ARI 40/80 Contest",
+      "time": "1300Z, Dec 12 to 1259Z, Dec 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=686",
+      "description": "1300Z, Dec 12 to 1259Z, Dec 13 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "QRP ARCI Holiday Homebrew Sprint",
+      "time": "2000Z-2300Z, Dec 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=198",
+      "description": "2000Z-2300Z, Dec 13 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0100Z-0300Z, Dec 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0100Z-0300Z, Dec 14 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "OK1WC Memorial (MWC)",
+      "time": "1630Z-1729Z, Dec 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Dec 14 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Worldwide Sideband Activity Contest",
+      "time": "0100Z-0159Z, Dec 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
+      "description": "0100Z-0159Z, Dec 15 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Dec 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Dec 15 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "QRP Fox Hunt",
+      "time": "0200Z-0330Z, Dec 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
+      "description": "0200Z-0330Z, Dec 16 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Dec 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Dec 16 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Dec 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Dec 16 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Dec 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Dec 16 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Dec 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Dec 17 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Dec 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Dec 17 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Dec 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Dec 17 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Dec 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Dec 18 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "AGB-Party Contest",
+      "time": "1600Z-1700Z, Dec 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=445",
+      "description": "1600Z-1700Z, Dec 18 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Feld Hell Sprint",
+      "time": "0000Z-2359Z, Dec 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=436",
+      "description": "0000Z-2359Z, Dec 19 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "9A DX Contest",
+      "time": "1400Z, Dec 19 to 1400Z, Dec 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=206",
+      "description": "1400Z, Dec 19 to 1400Z, Dec 20 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Dec 20 to 0100Z, Dec 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Dec 20 to 0100Z, Dec 21 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Dec 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Dec 21 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Dec 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Dec 21 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Dec 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Dec 22 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Dec 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Dec 23 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Dec 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Dec 23 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Dec 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Dec 23 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Dec 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Dec 23 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Dec 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Dec 24 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Weekly RTTY Test",
+      "time": "0145Z-0215Z, Dec 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
+      "description": "0145Z-0215Z, Dec 25 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "2000Z-2100Z, Dec 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "2000Z-2100Z, Dec 25 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Stew Perry Topband Challenge",
+      "time": "1500Z, Dec 26 to 1500Z, Dec 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=207",
+      "description": "1500Z, Dec 26 to 1500Z, Dec 27 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "RAC Winter Contest",
+      "time": "0000Z-2359Z, Dec 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=205",
+      "description": "0000Z-2359Z, Dec 27 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Dec 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Dec 28 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Dec 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Dec 28 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Dec 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Dec 28 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Dec 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Dec 29 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Dec 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Dec 30 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Dec 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Dec 30 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Dec 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Dec 30 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Dec 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Dec 31 — December 2026"
+    },
+    {
+      "month": "January 2027",
+      "title": "AGB New Year Snowball Contest",
+      "time": "0000Z-0100Z, Jan 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=466",
+      "description": "0000Z-0100Z, Jan 1 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "AGCW Happy New Year Contest",
+      "time": "0900Z-1200Z, Jan 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=212",
+      "description": "0900Z-1200Z, Jan 1 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "PODXS 070 Club PSKFest",
+      "time": "0000Z-2359Z, Jan 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=267",
+      "description": "0000Z-2359Z, Jan 2 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "WW PMC Contest",
+      "time": "1200Z, Jan 2 to 1200Z, Jan 3",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=471",
+      "description": "1200Z, Jan 2 to 1200Z, Jan 3 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "ARRL Kids Day",
+      "time": "1800Z-2359Z, Jan 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=224",
+      "description": "1800Z-2359Z, Jan 2 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0200Z-0400Z, Jan 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0200Z-0400Z, Jan 5 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "SKCC Weekend Sprintathon",
+      "time": "1200Z, Jan 9 to 2359Z, Jan 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=428",
+      "description": "1200Z, Jan 9 to 2359Z, Jan 10 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "North American QSO Party, CW",
+      "time": "1800Z, Jan 9 to 0600Z, Jan 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=218",
+      "description": "1800Z, Jan 9 to 0600Z, Jan 10 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NRAU-Baltic Contest, CW",
+      "time": "0900Z-1100Z, Jan 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=220",
+      "description": "0900Z-1100Z, Jan 10 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0100Z-0300Z, Jan 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0100Z-0300Z, Jan 11 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "PRO Digi Contest",
+      "time": "1200Z, Jan 16 to 1159Z, Jan 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=657",
+      "description": "1200Z, Jan 16 to 1159Z, Jan 17 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "ARRL January VHF Contest",
+      "time": "1900Z, Jan 16 to 0359Z, Jan 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=231",
+      "description": "1900Z, Jan 16 to 0359Z, Jan 18 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Jan 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Jan 21 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "Winter Field Day",
+      "time": "1600Z, Jan 23 to 2159Z, Jan 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=421",
+      "description": "1600Z, Jan 23 to 2159Z, Jan 24 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "CQ 160-Meter Contest, CW",
+      "time": "2200Z, Jan 29 to 2159Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=232",
+      "description": "2200Z, Jan 29 to 2159Z, Jan 31 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "UBA DX Contest, SSB",
+      "time": "1300Z, Jan 30 to 1300Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=235",
+      "description": "1300Z, Jan 30 to 1300Z, Jan 31 — January 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0200Z-0400Z, Feb 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0200Z-0400Z, Feb 2 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "10-10 Int. Winter Contest, SSB",
+      "time": "0001Z, Feb 6 to 2359Z, Feb 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=237",
+      "description": "0001Z, Feb 6 to 2359Z, Feb 7 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "European Union DX Contest",
+      "time": "1200Z, Feb 6 to 1200Z, Feb 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=687",
+      "description": "1200Z, Feb 6 to 1200Z, Feb 7 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "FYBO Winter QRP Sprint",
+      "time": "1400Z-2400Z, Feb 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=356",
+      "description": "1400Z-2400Z, Feb 6 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "British Columbia QSO Party",
+      "time": "1600Z, Feb 6 to 2400Z, Feb 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=269",
+      "description": "1600Z, Feb 6 to 2400Z, Feb 7 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "Marconi Club ARI Loano Slow CW QSO Party",
+      "time": "1300Z-2300Z, Feb 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=769",
+      "description": "1300Z-2300Z, Feb 7 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "CQ WW RTTY WPX Contest",
+      "time": "0000Z, Feb 13 to 2400Z, Feb 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=245",
+      "description": "0000Z, Feb 13 to 2400Z, Feb 14 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "Dutch PACC Contest",
+      "time": "1200Z, Feb 13 to 1200Z, Feb 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=249",
+      "description": "1200Z, Feb 13 to 1200Z, Feb 14 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "KCJ Topband Contest",
+      "time": "1200Z, Feb 13 to 1200Z, Feb 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=244",
+      "description": "1200Z, Feb 13 to 1200Z, Feb 14 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "Balkan HF Contest",
+      "time": "1300Z-1700Z, Feb 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=599",
+      "description": "1300Z-1700Z, Feb 14 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "AGCW Semi-Automatic Key Evening",
+      "time": "1900Z-2030Z, Feb 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=255",
+      "description": "1900Z-2030Z, Feb 17 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "ARRL Inter. DX Contest, CW",
+      "time": "0000Z, Feb 20 to 2400Z, Feb 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=256",
+      "description": "0000Z, Feb 20 to 2400Z, Feb 21 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Feb 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Feb 24 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "REF Contest, SSB",
+      "time": "0600Z, Feb 27 to 1800Z, Feb 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=260",
+      "description": "0600Z, Feb 27 to 1800Z, Feb 28 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "South Carolina QSO Party",
+      "time": "1500Z, Feb 27 to 0159Z, Feb 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=123",
+      "description": "1500Z, Feb 27 to 0159Z, Feb 28 — February 2027"
+    },
+    {
+      "month": "February 2027",
+      "title": "High Speed Club CW Contest",
+      "time": "1400Z-1700Z, Feb 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=264",
+      "description": "1400Z-1700Z, Feb 28 — February 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0200Z-0400Z, Mar 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0200Z-0400Z, Mar 2 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Novice Rig Roundup",
+      "time": "0000Z, Mar 5 to 2359Z, Mar 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=605",
+      "description": "0000Z, Mar 5 to 2359Z, Mar 13 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Wake-Up! QRP Sprint",
+      "time": "0600Z-0800Z, Mar 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=301",
+      "description": "0600Z-0800Z, Mar 6 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "SARL Hamnet 40m Simulated Emerg Contest",
+      "time": "1200Z-1400Z, Mar 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=318",
+      "description": "1200Z-1400Z, Mar 7 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "YB DX RTTY Contest",
+      "time": "0000Z-2359Z, Mar 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=642",
+      "description": "0000Z-2359Z, Mar 13 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Commonwealth (BERU) Contest",
+      "time": "1000Z, Mar 13 to 1000Z, Mar 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=282",
+      "description": "1000Z, Mar 13 to 1000Z, Mar 14 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "DIG QSO Party, SSB",
+      "time": "1200Z, Mar 13 to 1100Z, Mar 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=690",
+      "description": "1200Z, Mar 13 to 1100Z, Mar 14 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "AGCW QRP Contest",
+      "time": "1400Z-2000Z, Mar 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=288",
+      "description": "1400Z-2000Z, Mar 13 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Stew Perry Topband Challenge",
+      "time": "1500Z, Mar 13 to 1500Z, Mar 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=207",
+      "description": "1500Z, Mar 13 to 1500Z, Mar 14 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Idaho QSO Party",
+      "time": "1900Z, Mar 13 to 1900Z, Mar 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=305",
+      "description": "1900Z, Mar 13 to 1900Z, Mar 14 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Wisconsin QSO Party",
+      "time": "1800Z, Mar 14 to 0100Z, Mar 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=330",
+      "description": "1800Z, Mar 14 to 0100Z, Mar 15 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Bucharest Digital Contest",
+      "time": "1800Z-2059Z, Mar 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=427",
+      "description": "1800Z-2059Z, Mar 15 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "PODXS 070 Club St Patrick's Day Contest",
+      "time": "0000Z-2359Z, Mar 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=739",
+      "description": "0000Z-2359Z, Mar 20 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Russian DX Contest",
+      "time": "1200Z, Mar 20 to 1200Z, Mar 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=310",
+      "description": "1200Z, Mar 20 to 1200Z, Mar 21 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "Virginia QSO Party",
+      "time": "1400Z, Mar 20 to 2400Z, Mar 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=302",
+      "description": "1400Z, Mar 20 to 2400Z, Mar 21 — March 2027"
+    },
+    {
+      "month": "March 2027",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Mar 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Mar 24 — March 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "SARL 80m QSO Party",
+      "time": "1700Z-2000Z, Apr 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=158",
+      "description": "1700Z-2000Z, Apr 1 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Missouri QSO Party",
+      "time": "1400Z, Apr 3 to 0400Z, Apr 4 and 1400Z-2000Z, Apr 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=327",
+      "description": "1400Z, Apr 3 to 0400Z, Apr 4 and 1400Z-2000Z, Apr 4 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Louisiana QSO Party",
+      "time": "1400Z, Apr 3 to 0200Z, Apr 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=250",
+      "description": "1400Z, Apr 3 to 0200Z, Apr 4 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0100Z-0300Z, Apr 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0100Z-0300Z, Apr 6 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "JIDX CW Contest",
+      "time": "0700Z, Apr 10 to 1300Z, Apr 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=314",
+      "description": "0700Z, Apr 10 to 1300Z, Apr 11 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "OK/OM DX Contest, SSB",
+      "time": "1200Z, Apr 10 to 1159Z, Apr 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=567",
+      "description": "1200Z, Apr 10 to 1159Z, Apr 11 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "IG-RY World Wide RTTY Contest",
+      "time": "1200Z, Apr 10 to 1800Z, Apr 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=688",
+      "description": "1200Z, Apr 10 to 1800Z, Apr 11 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Africa FT4 DX Contest",
+      "time": "1500Z-1800Z, Apr 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=752",
+      "description": "1500Z-1800Z, Apr 10 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Hungarian Straight Key Contest",
+      "time": "1500Z-1600Z, Apr 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=512",
+      "description": "1500Z-1600Z, Apr 11 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Apr 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Apr 15 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "ES Open HF Championship",
+      "time": "0500Z-0859Z, Apr 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=321",
+      "description": "0500Z-0859Z, Apr 17 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Dutch PACCdigi Contest",
+      "time": "0700Z-1900Z, Apr 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=693",
+      "description": "0700Z-1900Z, Apr 17 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "World Time Zone Challenge",
+      "time": "1200Z, Apr 17 to 1200Z, Apr 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=783",
+      "description": "1200Z, Apr 17 to 1200Z, Apr 18 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "EA-QRP CW Contest",
+      "time": "1700Z, Apr 17 to 1200Z, Apr 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=369",
+      "description": "1700Z, Apr 17 to 1200Z, Apr 18 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Quebec QSO Party",
+      "time": "1300Z-2400Z, Apr 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=53",
+      "description": "1300Z-2400Z, Apr 18 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Apr 18 to 0100Z, Apr 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Apr 18 to 0100Z, Apr 19 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "SP DX RTTY Contest",
+      "time": "1200Z, Apr 24 to 1200Z, Apr 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=324",
+      "description": "1200Z, Apr 24 to 1200Z, Apr 25 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "Florida QSO Party",
+      "time": "1600Z, Apr 24 to 2159Z, Apr 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=325",
+      "description": "1600Z, Apr 24 to 2159Z, Apr 25 — April 2027"
+    },
+    {
+      "month": "April 2027",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Apr 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Apr 28 — April 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "RCC Cup",
+      "time": "0300Z-0859Z, May 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=645",
+      "description": "0300Z-0859Z, May 1 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "ARI International DX Contest",
+      "time": "1200Z, May 1 to 1159Z, May 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=9",
+      "description": "1200Z, May 1 to 1159Z, May 2 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "AGCW QRP/QRP Party",
+      "time": "1300Z-1900Z, May 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=7",
+      "description": "1300Z-1900Z, May 1 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "Delaware QSO Party",
+      "time": "1700Z, May 1 to 2359Z, May 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=240",
+      "description": "1700Z, May 1 to 2359Z, May 2 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0100Z-0300Z, May 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0100Z-0300Z, May 4 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "VOLTA WW RTTY Contest",
+      "time": "1200Z, May 8 to 1200Z, May 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=13",
+      "description": "1200Z, May 8 to 1200Z, May 9 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "SKCC Weekend Sprintathon",
+      "time": "1200Z, May 8 to 2359Z, May 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=428",
+      "description": "1200Z, May 8 to 2359Z, May 9 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0000Z-0200Z, May 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0000Z-0200Z, May 10 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "His Maj. King of Spain Contest, CW",
+      "time": "1200Z, May 15 to 1200Z, May 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=23",
+      "description": "1200Z, May 15 to 1200Z, May 16 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "Arkansas QSO Party",
+      "time": "1400Z, May 15 to 0200Z, May 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=132",
+      "description": "1400Z, May 15 to 0200Z, May 16 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, May 16 to 0100Z, May 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, May 16 to 0100Z, May 17 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "QRP ARCI Hootowl Sprint",
+      "time": "0000Z-0100Z, May 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=31",
+      "description": "0000Z-0100Z, May 24 — May 2027"
+    },
+    {
+      "month": "May 2027",
+      "title": "CQ WW WPX Contest, CW",
+      "time": "0000Z, May 29 to 2400Z, May 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=29",
+      "description": "0000Z, May 29 to 2400Z, May 30 — May 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "PODXS 070 Club Three Day Weekend Contest",
+      "time": "0000Z, Jun 4 to 2359Z, Jun 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=646",
+      "description": "0000Z, Jun 4 to 2359Z, Jun 6 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "Tisza Cup CW Contest",
+      "time": "0200Z-1459Z, Jun 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=678",
+      "description": "0200Z-1459Z, Jun 5 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "Kentucky QSO Party",
+      "time": "1300Z, Jun 5 to 0100Z, Jun 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=371",
+      "description": "1300Z, Jun 5 to 0100Z, Jun 6 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "ARRL Inter. Digital Contest",
+      "time": "1800Z, Jun 5 to 2400Z, Jun 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=716",
+      "description": "1800Z, Jun 5 to 2400Z, Jun 6 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0100Z-0300Z, Jun 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0100Z-0300Z, Jun 8 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "YB ORARI DX Contest",
+      "time": "0000Z-2359Z, Jun 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=772",
+      "description": "0000Z-2359Z, Jun 12 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "Portugal Day Contest",
+      "time": "1200Z, Jun 12 to 1159Z, Jun 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=41",
+      "description": "1200Z, Jun 12 to 1159Z, Jun 13 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "REF DDFM 6m Contest",
+      "time": "1400Z, Jun 12 to 1400Z, Jun 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=372",
+      "description": "1400Z, Jun 12 to 1400Z, Jun 13 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "GACW WWSA CW DX Contest",
+      "time": "1500Z, Jun 12 to 1500Z, Jun 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=45",
+      "description": "1500Z, Jun 12 to 1500Z, Jun 13 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0000Z-0200Z, Jun 14",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0000Z-0200Z, Jun 14 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "All Asian DX Contest, CW",
+      "time": "0000Z, Jun 19 to 2400Z, Jun 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=47",
+      "description": "0000Z, Jun 19 to 2400Z, Jun 20 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "Pajajaran Bogor DX Contest",
+      "time": "0000Z-2359Z, Jun 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=722",
+      "description": "0000Z-2359Z, Jun 19 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "LZ International 6-Meter Contest",
+      "time": "1400Z, Jun 19 to 1400Z, Jun 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=751",
+      "description": "1400Z, Jun 19 to 1400Z, Jun 20 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "West Virginia QSO Party",
+      "time": "1600Z, Jun 19 to 0400Z, Jun 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=49",
+      "description": "1600Z, Jun 19 to 0400Z, Jun 20 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Jun 20 to 0100Z, Jun 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Jun 20 to 0100Z, Jun 21 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "UFT QRP Contest",
+      "time": "0600Z-1700Z, Jun 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=603",
+      "description": "0600Z-1700Z, Jun 26 — June 2027"
+    },
+    {
+      "month": "June 2027",
+      "title": "ARRL Field Day",
+      "time": "1800Z, Jun 26 to 2100Z, Jun 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=57",
+      "description": "1800Z, Jun 26 to 2100Z, Jun 27 — June 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "RAC Canada Day Contest",
+      "time": "0000Z-2359Z, Jul 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=60",
+      "description": "0000Z-2359Z, Jul 1 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "NZART Memorial Contest",
+      "time": "0800Z, Jul 3 to 1100Z, Jul 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=721",
+      "description": "0800Z, Jul 3 to 1100Z, Jul 4 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "Marconi Memorial HF Contest",
+      "time": "1400Z, Jul 3 to 1400Z, Jul 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=56",
+      "description": "1400Z, Jul 3 to 1400Z, Jul 4 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "PODXS 070 Club 40m Firecracker Sprint",
+      "time": "2000Z, Jul 3 to 1959Z, Jul 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=439",
+      "description": "2000Z, Jul 3 to 1959Z, Jul 4 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "IARU HF World Championship",
+      "time": "1200Z, Jul 10 to 1200Z, Jul 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=67",
+      "description": "1200Z, Jul 10 to 1200Z, Jul 11 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "QRP ARCI Summer Homebrew Sprint",
+      "time": "2000Z-2300Z, Jul 11",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=69",
+      "description": "2000Z-2300Z, Jul 11 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Jul 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Jul 15 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "Trans-Tasman Low-Bands Challenge",
+      "time": "0800Z-1400Z, Jul 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=588",
+      "description": "0800Z-1400Z, Jul 17 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "CQ Worldwide VHF Digital Contest",
+      "time": "1400Z, Jul 17 to 1400Z, Jul 18",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=768",
+      "description": "1400Z, Jul 17 to 1400Z, Jul 18 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Jul 18 to 0100Z, Jul 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Jul 18 to 0100Z, Jul 19 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "ARS Flight of the Bumblebees",
+      "time": "1700Z-2100Z, Jul 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=76",
+      "description": "1700Z-2100Z, Jul 25 — July 2027"
+    },
+    {
+      "month": "July 2027",
+      "title": "Maryland-DC QSO Party",
+      "time": "1400Z, Jul 31 to 0400Z, Aug 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=86",
+      "description": "1400Z, Jul 31 to 0400Z, Aug 1 — July 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "SARL HF Phone Contest",
+      "time": "1400Z-1700Z, Aug 1",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=78",
+      "description": "1400Z-1700Z, Aug 1 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "10-10 Int. Summer Contest, SSB",
+      "time": "0001Z, Aug 7 to 2359Z, Aug 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=81",
+      "description": "0001Z, Aug 7 to 2359Z, Aug 8 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "North American QSO Party, CW",
+      "time": "1800Z, Aug 7 to 0600Z, Aug 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=218",
+      "description": "1800Z, Aug 7 to 0600Z, Aug 8 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "Hemus VHF Contest - 144 MHz",
+      "time": "0600Z-1359Z, Aug 8",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=750",
+      "description": "0600Z-1359Z, Aug 8 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0000Z-0200Z, Aug 9",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0000Z-0200Z, Aug 9 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "SKCC Weekend Sprintathon",
+      "time": "1200Z, Aug 14 to 2359Z, Aug 15",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=428",
+      "description": "1200Z, Aug 14 to 2359Z, Aug 15 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "Run for the Bacon QRP Contest",
+      "time": "2300Z, Aug 15 to 0100Z, Aug 16",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
+      "description": "2300Z, Aug 15 to 0100Z, Aug 16 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "SARTG WW RTTY Contest",
+      "time": "0000Z, Aug 21 to 1600Z, Aug 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=87",
+      "description": "0000Z, Aug 21 to 1600Z, Aug 22 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "YO DX HF Contest",
+      "time": "1200Z, Aug 21 to 1200Z, Aug 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=98",
+      "description": "1200Z, Aug 21 to 1200Z, Aug 22 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "North American QSO Party, SSB",
+      "time": "1800Z, Aug 21 to 0600Z, Aug 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=229",
+      "description": "1800Z, Aug 21 to 0600Z, Aug 22 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "SARL HF CW Contest",
+      "time": "1400Z-1700Z, Aug 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=101",
+      "description": "1400Z-1700Z, Aug 22 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Aug 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Aug 25 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "World Wide Digi DX Contest",
+      "time": "1200Z, Aug 28 to 1200Z, Aug 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=650",
+      "description": "1200Z, Aug 28 to 1200Z, Aug 29 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "Kansas QSO Party",
+      "time": "1400Z, Aug 28 to 2000Z, Aug 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=483",
+      "description": "1400Z, Aug 28 to 2000Z, Aug 29 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "Hawaii QSO Party",
+      "time": "1600Z, Aug 28 to 0400Z, Aug 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=96",
+      "description": "1600Z, Aug 28 to 0400Z, Aug 30 — August 2027"
+    },
+    {
+      "month": "August 2027",
+      "title": "CVA DX Contest, SSB",
+      "time": "1800Z, Aug 28 to 2100Z, Aug 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=535",
+      "description": "1800Z, Aug 28 to 2100Z, Aug 29 — August 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "All Asian DX Contest, Phone",
+      "time": "0000Z, Sep 4 to 2400Z, Sep 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=102",
+      "description": "0000Z, Sep 4 to 2400Z, Sep 5 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Wake-Up! QRP Sprint",
+      "time": "0600Z-0800Z, Sep 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=301",
+      "description": "0600Z-0800Z, Sep 4 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "AGCW Straight Key Party",
+      "time": "1300Z-1600Z, Sep 4",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=109",
+      "description": "1300Z-1600Z, Sep 4 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "IARU Region 1 145 MHz Contest",
+      "time": "1400Z, Sep 4 to 1400Z, Sep 5",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=654",
+      "description": "1400Z, Sep 4 to 1400Z, Sep 5 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Tennessee QSO Party",
+      "time": "1700Z, Sep 5 to 0300Z, Sep 6",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=115",
+      "description": "1700Z, Sep 5 to 0300Z, Sep 6 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "ARS Spartan Sprint",
+      "time": "0100Z-0300Z, Sep 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=283",
+      "description": "0100Z-0300Z, Sep 7 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "WAE DX Contest, SSB",
+      "time": "0000Z, Sep 11 to 2359Z, Sep 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=111",
+      "description": "0000Z, Sep 11 to 2359Z, Sep 12 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Colorado QSO Party",
+      "time": "1400Z, Sep 11 to 0359Z, Sep 12",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=431",
+      "description": "1400Z, Sep 11 to 0359Z, Sep 12 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "ARRL September VHF Contest",
+      "time": "1800Z, Sep 11 to 0300Z, Sep 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=113",
+      "description": "1800Z, Sep 11 to 0300Z, Sep 13 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "4 States QRP Group Second Sunday Sprint",
+      "time": "0000Z-0200Z, Sep 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=611",
+      "description": "0000Z-0200Z, Sep 13 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "AGB NEMIGA Contest",
+      "time": "1600Z-1700Z, Sep 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=487",
+      "description": "1600Z-1700Z, Sep 17 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Scandinavian Activity Contest, CW",
+      "time": "1200Z, Sep 18 to 1200Z, Sep 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=121",
+      "description": "1200Z, Sep 18 to 1200Z, Sep 19 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Texas QSO Party",
+      "time": "1400Z, Sep 18 to 2000Z, Sep 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=133",
+      "description": "1400Z, Sep 18 to 2000Z, Sep 19 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "New Hampshire QSO Party",
+      "time": "1600Z, Sep 18 to 2200Z, Sep 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=71",
+      "description": "1600Z, Sep 18 to 2200Z, Sep 19 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "North American Sprint, RTTY",
+      "time": "0000Z-0359Z, Sep 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=155",
+      "description": "0000Z-0359Z, Sep 19 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "ARS Flight of the Bumblebees",
+      "time": "1700Z-2100Z, Sep 19",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=76",
+      "description": "1700Z-2100Z, Sep 19 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Sep 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Sep 22 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "Maine QSO Party",
+      "time": "1200Z, Sep 25 to 1200Z, Sep 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=592",
+      "description": "1200Z, Sep 25 to 1200Z, Sep 26 — September 2027"
+    },
+    {
+      "month": "September 2027",
+      "title": "AGCW VHF/UHF Contest",
+      "time": "1400Z-1800Z, Sep 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=214",
+      "description": "1400Z-1800Z, Sep 25 — September 2027"
     }
   ]
 }
