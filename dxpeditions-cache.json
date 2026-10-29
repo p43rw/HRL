@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29 12:00:04 UTC",
-  "count": 75,
+  "updated": "2026-10-29 12:30:04 UTC",
+  "count": 76,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -411,6 +411,16 @@
       "callLink": "https://www.qrz.com/db/3B9KW",
       "qsl": "LoTW",
       "info": "By M0CFW as 3B9/M0CFW; 160-6m; CW SSB + digital; QRV for CQWW DX CW using 3B9KW"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov22",
+      "endDate": "2026 Dec05",
+      "entity": "St Helena",
+      "callsign": "ZD7",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By G4BWP as ZD7WP and 5Z4VJ as ZD7VJ; HF, incl 60m; CW SSB FT8; QRV for CQWW DX CW"
     },
     {
       "month": "Upcoming",
