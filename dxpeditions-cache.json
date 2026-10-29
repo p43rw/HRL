@@ -1,5 +1,756 @@
 {
-  "updated": "2026-10-29 00:05:19 UTC",
-  "count": 0,
-  "dxpeditions": []
+  "updated": "2026-10-29 00:09:16 UTC",
+  "count": 75,
+  "dxpeditions": [
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct01",
+      "endDate": "2026 Nov04",
+      "entity": "Gambia",
+      "callsign": "C5R",
+      "callLink": "https://www.qrz.com/db/C5R",
+      "qsl": "YU5R Direct",
+      "info": "By YU5R F5RAV E70A; HF; for QSL, include SAE; QRV in CQWW DX SSB"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct03",
+      "endDate": "2026 Nov20",
+      "entity": "Solomon Is",
+      "callsign": "H44MS",
+      "callLink": "https://www.qrz.com/db/H44MS",
+      "qsl": "LoTW",
+      "info": "By DL2GAC; 80-10m; mainly FT8, some SSB; QSL via DL2GAC (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct15",
+      "endDate": "2026 Nov02",
+      "entity": "eSwatini",
+      "callsign": "3DA0GY",
+      "callLink": "https://www.qrz.com/db/3DA0GY",
+      "qsl": "LoTW",
+      "info": "By LA9GY fm Piggs Peak; 40-10m; CW SSB; QRV in Worked All Germany SSB and CQWW DX SSB"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct16",
+      "endDate": "2026 Oct29",
+      "entity": "Lesotho",
+      "callsign": "7P8GE",
+      "callLink": "https://webufr.dl7ufr.selfhost.eu/7p8/index.php",
+      "qsl": "LoTW",
+      "info": "By DL7DF DK1BT DL4WK DL6SAK DL7BO DL7UFR; HF, incl 60m; OQRS:  https://webufr.dl7ufr.selfhost.eu/7p8/oqrs.php"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct17",
+      "endDate": "2026 Oct31",
+      "entity": "Sao Tome & Principe I",
+      "callsign": "S9R",
+      "callLink": "https://s9r.viacom.ao/",
+      "qsl": "LoTW",
+      "info": "By EC7R D2ACE CT1BOL D2IM CT1BZG CT3MD fm Tamarido; 160-6m, incl 60m; CW SSB RTTY FT8; Spiderbeam, Hexbeam, vertical, end-fed wire, 5 ele yagi on 6m"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct17",
+      "endDate": "2026 Nov02",
+      "entity": "Ogasawara",
+      "callsign": "JD1BQP",
+      "callLink": "https://www.qrz.com/db/JD1BQP",
+      "qsl": "LoTW",
+      "info": "By JP1IHD fm Chichijima I; 160-6m; 200, 100w; EFHW, hexbeam, 6m yagi"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct18",
+      "endDate": "2026 Oct30",
+      "entity": "Vanuatu",
+      "callsign": "YJ0CA",
+      "callLink": "https://www.qrz.com/db/YJ0CA",
+      "qsl": "See Info",
+      "info": "By VK2YUS; 40-10m; SSB; QSL: 3/19-21 Eastern Rd, Turramurra, NSW, 2074, Australia"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct19",
+      "endDate": "2026 Nov19",
+      "entity": "Tanzania",
+      "callsign": "5H3MB",
+      "callLink": "https://www.qrz.com/db/5H3MB",
+      "qsl": "IK2GZU",
+      "info": "By IK2GZU fm Ilembula; 80-10m; CW; QSL via IK2GZU (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct20",
+      "endDate": "2026 Nov28",
+      "entity": "Rodrigues I",
+      "callsign": "3B9",
+      "callLink": "https://www.qrz.com/db/3B9KW",
+      "qsl": "LoTW",
+      "info": "By M0CFW as 3B9/M0CFW; 160-6m; CW SSB + digital; QRV for CQWW DX SSB using 3B9KW"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct21",
+      "endDate": "2026 Nov16",
+      "entity": "North Cook Is",
+      "callsign": "E51MWA",
+      "callLink": "https://www.qrz.com/db/E51MWA",
+      "qsl": "LoTW",
+      "info": "By N7QT fm Manihiki I (IOTA OC014); HF; mainly CW; some remote activity by N9ADG N7JP WA7CPA; QSL via M0URX"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct21",
+      "endDate": "2026 Oct29",
+      "entity": "Samoa",
+      "callsign": "5W0ZP",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5W0ZP",
+      "qsl": "LoTW",
+      "info": "By AG4ZP fm Saleia Village (AH36tn); 40-10m; FT8 FT4, perhaps some CW; QRP"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct21",
+      "endDate": "2026 Oct31",
+      "entity": "Gambia",
+      "callsign": "C5A",
+      "callLink": "https://www.qrz.com/db/E70A",
+      "qsl": "E70A",
+      "info": "By E70A; HF + 6m; SSB CW FT8"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct22",
+      "endDate": "2026 Dec02",
+      "entity": "Mali",
+      "callsign": "TZ4AM",
+      "callLink": "https://www.qrz.com/db/TZ4AM",
+      "qsl": "LoTW",
+      "info": "By KX4R; 80-6m; CW SSB; QSL via KX4R direct; perhaps KX4R last trip to Mali"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct23",
+      "endDate": "2026 Oct31",
+      "entity": "Nepal",
+      "callsign": "9N7XT",
+      "callLink": "https://yct.janlabs.de/dx/nepal2026",
+      "qsl": "LoTW",
+      "info": "By DL4XT fm Kathmandu; 160-10m; CW SSB FT8; 100-500w"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct25",
+      "endDate": "2026 Nov04",
+      "entity": "Ogasawara",
+      "callsign": "JD1",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=7M1KJW/JD1",
+      "qsl": "LoTW",
+      "info": "By 7M1KJW as 7M1KJW/JD1 fm Chichijima; 40-6m; FT8; 10w; vertical; spare time operation; POTA JP-1288 activations, perhaps JP-0015 as well; QSL via 7M1KJW Buro"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct26",
+      "endDate": "2026 Nov25",
+      "entity": "Lesotho",
+      "callsign": "7P8EA",
+      "callLink": "https://www.qrz.com/db/7P8EA",
+      "qsl": "HB9CCS",
+      "info": "By HB9CCS fm Thaba-Tseka (KG0hl); 20-10m; CW SSB"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct27",
+      "endDate": "2026 Nov29",
+      "entity": "Barbados",
+      "callsign": "8P",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=8P/PZ5TW",
+      "qsl": "LoTW",
+      "info": "By PZ5TW as 8P/PZ5TW fm Crab Hill; HF"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct28",
+      "endDate": "2026 Oct30",
+      "entity": "Kenya",
+      "callsign": "5Z4GO/p",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5Z4GO/p",
+      "qsl": "LoTW",
+      "info": "By 5Z4GO fm Wasini I (IOTA AF-067); 20-10m; CW; QRP; QSL: Markus Meyer, Roemerstrasse 6, CH-4148 Pfeffingen, Switzerland"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct28",
+      "endDate": "2026 Nov06",
+      "entity": "St Kitts & Nevis",
+      "callsign": "V47JA",
+      "callLink": "https://www.qrz.com/lookup/v47ja",
+      "qsl": "LoTW",
+      "info": "By W5JON fm Calypso Bay; 160-6m; SSB FT8; yagi, verticals; QSL also OK via W5JON direct"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct28",
+      "endDate": "2026 Nov09",
+      "entity": "Senegal",
+      "callsign": "6W",
+      "callLink": "https://www.i2ysb.com/idt/",
+      "qsl": "LoTW",
+      "info": "By IV3FSG I1FQH I1HJT I2PJA I2YSB IK2AQZ IK2CKR IK2HKT as 6W/I2YSB and 6W/IK2HKT; 160-6m; CW SSB RTTY FT8; QSL via I2YSB"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct30",
+      "endDate": "2026 Nov05",
+      "entity": "Vanuatu",
+      "callsign": "YJ0SP",
+      "callLink": "https://www.qrz.com/db/YJ0SP",
+      "qsl": "VK2SP",
+      "info": "By VK2SP fm Port Vila; HF"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct30",
+      "endDate": "2026 Nov06",
+      "entity": "Antigua",
+      "callsign": "V26JJ",
+      "callLink": "https://www.qrz.com/db/V26JJ",
+      "qsl": "LoTW",
+      "info": "By JA3FHL JA3PJL JH3UHG JJ2RCJ JA0JHQ; HF; CW SSB FT8; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct30",
+      "endDate": "2026 Nov12",
+      "entity": "American Samoa",
+      "callsign": "KH8A",
+      "callLink": "https://kh8a.mydx.de/",
+      "qsl": "Club Log OQRS",
+      "info": "By DJ9KH DK5WL DL1KWK DL2RNS DL4SVA DL6KAC DL6KVA DL7JOM DL7VEE fm IOTA OC-045 (AH45op); 160-6m; CW SSB FT8 RTTY; LoTW after 6 mos; see Web for full QSL details"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct31",
+      "endDate": "2026 Nov11",
+      "entity": "Rwanda",
+      "callsign": "9X5KM",
+      "callLink": "https://www.qrz.com/db/9X5KM",
+      "qsl": "LoTW",
+      "info": "By F8FUA; HF w/ focus on low bands; Hex beam, dipoles, verticals; holiday style operation; QSL via F8FUA direct (w/ 3GS + SAE) or by Buro free"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct31",
+      "endDate": "2026 Nov06",
+      "entity": "Grenada",
+      "callsign": "J3",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By N9GB as J3/N9GB fm Sandals Grenada; 40-6m; CW SSB, some FT8; 100w; OCF dipole; holiday style operation; QSL via Club Log OQRS or EB7DX"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct31",
+      "endDate": "2026 Nov14",
+      "entity": "Wallis & Futuna",
+      "callsign": "FW3GT",
+      "callLink": "",
+      "qsl": "M0OXO",
+      "info": "By GM3GAV fm Futuna I (IOTA OC-118); mainly 40-10m, some 80 60m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov01",
+      "endDate": "2026 Nov30",
+      "entity": "Juan Fernandez Is",
+      "callsign": "XR0Z",
+      "callLink": "https://www.xr0z.net/",
+      "qsl": "LoTW",
+      "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101) for 10 days during the first half of October; 160-6m; CW SSB FT8; QSL via M0UXR"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov03",
+      "endDate": "2026 Nov16",
+      "entity": "Montserrat",
+      "callsign": "VP2MCV",
+      "callLink": "https://www.qrz.com/db/VP2MCV",
+      "qsl": "LoTW",
+      "info": "By KG9N fm Gingerbread Hill; HF"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov04",
+      "endDate": "2026 Nov11",
+      "entity": "Cape Verde Is",
+      "callsign": "D44PX",
+      "callLink": "https://www.qrz.com/db/D44PX",
+      "qsl": "LoTW",
+      "info": "By IZ2DPX fm Boa Vista (HK86mc); 60-6m; SSB FT8 FT4; 100w; vertical, dipoles; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov08",
+      "endDate": "2026 Dec29",
+      "entity": "Uganda",
+      "callsign": "5X7W",
+      "callLink": "https://www.qrz.com/db/5X7W",
+      "qsl": "LoTW",
+      "info": "By SM0HPL; also using 5X1Q when running QRP; 160-10m; slow CW FT8; QRV for CQWW DX CW; QSL via M0OXO or Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov09",
+      "endDate": "2026 Nov20",
+      "entity": "Mozambique",
+      "callsign": "C8K",
+      "callLink": "https://www.cdxp.cz/",
+      "qsl": "LoTW",
+      "info": "By OK1BOA OK1FCJ OK1CRM OK1GK OK2ZA OK2ZC OK2ZI OK6DJ; 160-6m, incl 60m, focus on low bands; SSB CW RTTY FT8 FT4 PSK; QSL via Club Log OQRS or OK6DJ"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov10",
+      "endDate": "2026 Nov24",
+      "entity": "Guinea",
+      "callsign": "3X4U",
+      "callLink": "https://rockall.be/",
+      "qsl": "M0URX OQRS",
+      "info": "By 10 ON/PA ops fm Lac de Koba; 160-6m; CW SSB FT8 RTTY; 5 stns; 1kw; 2 hexbeams, phased verticals, foursquare, verticals; LoTW after 6 months"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov13",
+      "endDate": "2026 Nov15",
+      "entity": "Ceuta & Melilla",
+      "callsign": "EG9MM",
+      "callLink": "https://www.qrz.com/db/EG9MM",
+      "qsl": "LoTW",
+      "info": "By EA4GHH EA4HUK EA4IWX EA3JAQ fm Melilla; 80-10m; SSB + digital"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov13",
+      "endDate": "2026 Nov20",
+      "entity": "Cape Verde Is",
+      "callsign": "D44JB",
+      "callLink": "https://www.qrz.com/db/D44JB",
+      "qsl": "LoTW",
+      "info": "By EI8JB fm Santo Antao I (HK77le); 80-10m; focus on SSB FT8; vertical, fan dipole; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov14",
+      "endDate": "2026 Nov22",
+      "entity": "South Cook Is",
+      "callsign": "E51A",
+      "callLink": "https://www.yt1ad.info/dxped.html",
+      "qsl": "YT5A (B/d)",
+      "info": "By YT5A fm Rarotonga I; HF; CW SSB FT8; holiday style operation"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov15",
+      "endDate": "2026 Nov22",
+      "entity": "Ecuador",
+      "callsign": "HD4W",
+      "callLink": "https://www.qrz.com/db/HD4W",
+      "qsl": "Club Log OQRS",
+      "info": "By PY8WW fm Cojimies I (IOTA SA-056); 40-6m; SSB CW FT8"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov16",
+      "endDate": "2026 Dec04",
+      "entity": "Christmas I",
+      "callsign": "VK9XY",
+      "callLink": "https://vk9xy2026.com/",
+      "qsl": "M0OXO",
+      "info": "By 8 young ops, including KN4DLY KN2P VK4OTZ; 160-6m; QRV for CQWW DX CW"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov20",
+      "endDate": "2026 Nov27",
+      "entity": "Cocos (Keeling) I",
+      "callsign": "VK9DS",
+      "callLink": "https://www.qrz.com/db/VK9DS",
+      "qsl": "?",
+      "info": "By VK6DS; 80-6m; SSB CW FT8; logs will be uploaded to Club Log and QRZ upon his return home"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov20",
+      "endDate": "2026 Nov22",
+      "entity": "Ecuador",
+      "callsign": "HD4W",
+      "callLink": "https://www.qrz.com/db/HD4W",
+      "qsl": "Club Log OQRS",
+      "info": "By PY8WW fm Cojimies I (IOTA SA-056); 40-6m; SSB CW FT8"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov20",
+      "endDate": "2026 Dec03",
+      "entity": "Mauritius",
+      "callsign": "3B8",
+      "callLink": "https://www.qrz.com/db/E70A",
+      "qsl": "LoTW",
+      "info": "By 3B8/E70A; HF; QSL via E70A (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov22",
+      "endDate": "2026 Dec02",
+      "entity": "Rodrigues I",
+      "callsign": "3B9",
+      "callLink": "https://www.qrz.com/db/3B9KW",
+      "qsl": "LoTW",
+      "info": "By M0CFW as 3B9/M0CFW; 160-6m; CW SSB + digital; QRV for CQWW DX CW using 3B9KW"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov23",
+      "endDate": "2026 Nov30",
+      "entity": "Honduras",
+      "callsign": "HR5",
+      "callLink": "https://www.qrz.com/db/F2JD",
+      "qsl": "LoTW",
+      "info": "By F2JD as HR5/F2JD; HF; all modes; QSL via F6AJA; QRV through Mar 15, 2027"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov23",
+      "endDate": "2026 Nov30",
+      "entity": "Sint Maartin",
+      "callsign": "PJ7WW",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov23",
+      "endDate": "2026 Dec01",
+      "entity": "Surinam",
+      "callsign": "PZ5KW",
+      "callLink": "",
+      "qsl": "PE1K",
+      "info": "By PE1K fm Paramaibo; HF; FT8 SSB; holiday style operation"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov25",
+      "endDate": "2026 Dec05",
+      "entity": "Honduras",
+      "callsign": "HR9",
+      "callLink": "https://www.qrz.com/db/K6VHF/HR9",
+      "qsl": "LoTW",
+      "info": "By K6VHF as K6VHF/HR9 fm Roatan I (IOTA NA-057); 160-6m; all modes; 100w; hexbeam, longwire, delta, beam; QSL OK via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov28",
+      "endDate": "2026 Dec04",
+      "entity": "Christmas I",
+      "callsign": "VK9DS",
+      "callLink": "https://www.qrz.com/db/VK9DS",
+      "qsl": "?",
+      "info": "By VK6DS; 80-6m; SSB CW FT8; logs will be uploaded to Club Log and QRZ upon his return home"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov28",
+      "endDate": "2026 Dec04",
+      "entity": "Tonga",
+      "callsign": "A35TV",
+      "callLink": "https://a35tv.com/",
+      "qsl": "Club Log OQRS",
+      "info": "By VK2IR VK3YP SV0EG SV1DAY SV1GE HB9EB ; 160-6m; FT8 CW SSB"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov29",
+      "endDate": "2026 Dec07",
+      "entity": "Br Virgin Is",
+      "callsign": "VP2V",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By WE9G as VP2V/WE9G fm Tortola; 160-6m; QSL via WE9G direcct"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov30",
+      "endDate": "2026 Dec09",
+      "entity": "St Martin",
+      "callsign": "FS",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec14",
+      "endDate": "2027 Jan01",
+      "entity": "St Helena",
+      "callsign": "ZD7LC",
+      "callLink": "https://www.qrz.com/db/ZD7LC",
+      "qsl": "LoTW",
+      "info": "By ZR6LC; 40 20 17 15 12 10m; SSB CW; 5,100w; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec23",
+      "endDate": "2027 Jan06",
+      "entity": "Tanzania",
+      "callsign": "5H1RK",
+      "callLink": "https://www.qrz.com/db/5H1RK",
+      "qsl": "LoTW",
+      "info": "By SP3RK fm Bwejuu, Unguja I (IOTA AF-032) Zanzibar I; 20 17 15 12 10m; FT8 FT4 FT2, some CW; QRP; holiday style operation"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec27",
+      "endDate": "2027 Jan03",
+      "entity": "Gambia",
+      "callsign": "C5H",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By F4GJE fm Kotu West (IK13ok); 40-6m; SSB FT4 FT8; 250-300w; vertical, EFHW"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec28",
+      "endDate": "2027 Jan08",
+      "entity": "Seychelles",
+      "callsign": "S79",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By OK2ZA OK6DJ as S79/OL1T; HF; QSL via Club Log OQRS or OK6DJ (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec29",
+      "endDate": "2027 Jan03",
+      "entity": "Marianas",
+      "callsign": "KH0",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By AJ6VJ as KH0/AJ6VJ fm Saipan I; 40-10m, perhaps 80m; CW FT8; QSL via Club Log OQRS or eQSL"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan08",
+      "endDate": "2027 Jan14",
+      "entity": "Palau",
+      "callsign": "T88SM",
+      "callLink": "",
+      "qsl": "JA6EGL",
+      "info": "By JA6EGL fm Koror (VIP Guest Hotel); 160-6m; CW SSB AM FM"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan09",
+      "endDate": "2027 Jan21",
+      "entity": "Barbados",
+      "callsign": "8P9CB",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By WA7RAR 20-10m; SSB CW; QSL: Chris Billings, PO Box 1383, Shady Cove, Oregon, 97539, USA; SASE/green stamps NOT required"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan10",
+      "endDate": "2027 Oct17",
+      "entity": "Falkland Is",
+      "callsign": "VP8TOG",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By LU2DUR fm East Falkland; 40 20 15 10m, peraps 80m; SSB, some FT8; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan14",
+      "endDate": "2027 Jan22",
+      "entity": "Micronesia",
+      "callsign": "V6XG",
+      "callLink": "https://www.qrz.com/db/V6XG",
+      "qsl": "LoTW",
+      "info": "By JA1XGI fm Chuuk I (IOTA OC-011,  QJ57wk); 160-6m, focus on 160m for EU NA SA; CW SSB + digital; 500w; verticals; holiday style operation; QSL via Club Log OQRS or JA1XGI (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan17",
+      "endDate": "2027 Jan24",
+      "entity": "Burkina Faso",
+      "callsign": "XT2MAX",
+      "callLink": "https://www.qrz.com/db/XT2MAX",
+      "qsl": "LoTW",
+      "info": "By DK1MAX fm Ouagadougou; HF;  CW SSB FT8; 100w; vertical, OCF dipole; QSL via DK1MAX"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jan19",
+      "endDate": "2027 Jan27",
+      "entity": "Sint Maarten",
+      "callsign": "PJ7",
+      "callLink": "https://www.qrz.com/db/N4XTT",
+      "qsl": "LoTW",
+      "info": "By N4XTT as PJ7/N4XTT fm Simpson Bay; HF; holiday style operation; dates tentative"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Feb01",
+      "endDate": "2027 Feb28",
+      "entity": "Peter I",
+      "callsign": "3Y0L",
+      "callLink": "https://3y0l.com/",
+      "qsl": "LoTW",
+      "info": "By 19 ops for 2 weeks during February"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Feb03",
+      "endDate": "2027 Mar03",
+      "entity": "St Kitts & Nevis",
+      "callsign": "V4",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By K0YA as V47YA and W5RCX as V47RCX fm St Kitts I; 160-6m; CW SSB FT8, V47RCX FT8 only; QSL OK via home_call"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Feb05",
+      "endDate": "2027 May07",
+      "entity": "Solomon Is",
+      "callsign": "H44MS",
+      "callLink": "https://www.qrz.com/db/H44MS",
+      "qsl": "LoTW",
+      "info": "By DL2GAC; 80-10m; mainly FT8, some SSB; QSL via DL2GAC (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Feb10",
+      "endDate": "2027 Feb18",
+      "entity": "Palau",
+      "callsign": "T8KT",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By 7K4TKB JA6FWJ JF3LGC JF3PLF JH3FHR JH3QNH JH3TXR JI3NST JI6DUE JN3JBC JN3RAZ JR3FOS; 160-6m; SSB CW + digital; QSL via Club Log OQRS or JA Buro; commemorating JARL Kyoto Club's 80th Anniversary"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Feb15",
+      "endDate": "2027 Feb27",
+      "entity": "Somalia",
+      "callsign": "6O6X",
+      "callLink": "https://www.dx-adventure.com/en/home-eng/",
+      "qsl": "TBA",
+      "info": "By ops fm Berbera (LK20mk); HF"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Mar02",
+      "endDate": "2027 Mar09",
+      "entity": "Monaco",
+      "callsign": "3A",
+      "callLink": "https://www.qrz.com/db/3A/WE9G",
+      "qsl": "LoTW",
+      "info": "By WE9G as 3A/WE9G; 80-6m; FT8 FT4, some SSB CW; vertical, EFHW; QSL via Club Log OQRS or WE9G (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Mar09",
+      "endDate": "2027 Mar15",
+      "entity": "St Lucia",
+      "callsign": "J6",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By KB4YKC as J6/KB4YKC and KB4PML as J6/KB4PML; @J68HZ; HF; SSB; holiday style operation"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Mar12",
+      "endDate": "2027 Mar26",
+      "entity": "South Georgia I",
+      "callsign": "VP0SG",
+      "callLink": "https://www.ardxpeditions.com/dxpeditions/vp0sg",
+      "qsl": "M0OXO",
+      "info": "By LA7THA LB1QI LB5GI W0ZB DL3ON EI5LA F4HEC G0VJG G4PVM IU2EFB KN2P LA3BO OE7PGI OK2WX UR8UQ UT5UY; 160-6m; CW SSB + digital and QO100; 6 stns, 24/24 hrs; dates tentative"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Apr01",
+      "endDate": "2027 Apr15",
+      "entity": "Falkland Is",
+      "callsign": "VP8TTX",
+      "callLink": "",
+      "qsl": "F4HEC",
+      "info": "By F4HEC; HF, focus on low bands; CW SSB; Hexbeam, dipoles"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Apr08",
+      "endDate": "2027 Apr14",
+      "entity": "Palau",
+      "callsign": "T8",
+      "callLink": "",
+      "qsl": "See Info",
+      "info": "By JM1LIG JO3LVG JG1LFF as T88FM T88MK T88XM fm Koror I (IOTA OC-009, PJ77fi); HF; QSL: T88FM via JM1LIG, T88MK via JO3LVG (B/d), T88XM via LoTW or JG1LFF (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 May17",
+      "endDate": "2027 May24",
+      "entity": "French Polynesia",
+      "callsign": "FO",
+      "callLink": "https://www.qrz.com/db/FO/WE9G",
+      "qsl": "LoTW",
+      "info": "By WE9G as FO/WE9G fm Mangareva I (IOTA OC-063); 80-6m; FT8 FT4, some SSB CW; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 May24",
+      "endDate": "2027 Jun07",
+      "entity": "Lord Howe I",
+      "callsign": "VK2LHW",
+      "callLink": "https://lhi-2027.topdx.de/",
+      "qsl": "LoTW",
+      "info": "By DL2AWG DF4GV DL2AMD DL2SAX DL1KWK DL6RY DL4VK DJ7TO EA5GVH DL4SVA; HF + 6m; SSB CW + digital; 4 stns, 24/7; QSL via Club Log OQRS or DL2AWG"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 May27",
+      "endDate": "2027 Jun12",
+      "entity": "Pitcairn I",
+      "callsign": "VP6W",
+      "callLink": "https://www.qrz.com/db/VP6W",
+      "qsl": "LoTW",
+      "info": "By WE9G fm CG44ww; 80-6m; FT8 FT4, some SSB CW; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jun04",
+      "endDate": "2027 Jun20",
+      "entity": "East Malaysia",
+      "callsign": "9M8T",
+      "callLink": "https://cqdx.my/9m8t/",
+      "qsl": "LoTW",
+      "info": "By 9M8WIN 9M8BAT 9M2WAZ 9M2MAD 9M2RSI 9M2DOC 9M2SPN 9M8LJW 9W8VYY fm Big Talang-Talang I, Sarawak, (IOTA OC-165, OJ41vv); 80-6m, perhaps 160m; CW SSB + FT modes; QSL via Club Log OQRS, 9W8ZZK direct (include 4USD)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Nov13",
+      "endDate": "2027 Nov23",
+      "entity": "Cambodia",
+      "callsign": "XU7X",
+      "callLink": "https://xu7cambdx-8jdsr6a4.manus.space/",
+      "qsl": "M0URX",
+      "info": "By 24 ops fm Koh Rong I (IOTA AS-133, OK10pq, WWFF XU-0008); 7 stns; 160-6m; CW SSB FT8 FT4 RTTY PSK31; auto-LoTW after 1 year"
+    }
+  ]
 }
