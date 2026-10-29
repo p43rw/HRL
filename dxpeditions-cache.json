@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 18:00:04 UTC",
+  "updated": "2026-10-29 18:30:04 UTC",
   "count": 76,
   "dxpeditions": [
     {
@@ -31,16 +31,6 @@
       "callLink": "https://www.qrz.com/db/3DA0GY",
       "qsl": "LoTW",
       "info": "By LA9GY fm Piggs Peak; 40-10m; CW SSB; QRV in Worked All Germany SSB and CQWW DX SSB"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct16",
-      "endDate": "2026 Oct29",
-      "entity": "Lesotho",
-      "callsign": "7P8GE",
-      "callLink": "https://webufr.dl7ufr.selfhost.eu/7p8/index.php",
-      "qsl": "LoTW",
-      "info": "By DL7DF DK1BT DL4WK DL6SAK DL7BO DL7UFR; HF, incl 60m; OQRS:  https://webufr.dl7ufr.selfhost.eu/7p8/oqrs.php"
     },
     {
       "month": "Upcoming",
@@ -174,13 +164,13 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Oct28",
-      "endDate": "2026 Oct30",
-      "entity": "Kenya",
-      "callsign": "5Z4GO/p",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5Z4GO/p",
+      "startDate": "2026 Oct27",
+      "endDate": "2026 Nov29",
+      "entity": "Br Virgin Is",
+      "callsign": "VP2V",
+      "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
-      "info": "By 5Z4GO fm Wasini I (IOTA AF-067); 20-10m; CW; QRP; QSL: Markus Meyer, Roemerstrasse 6, CH-4148 Pfeffingen, Switzerland"
+      "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
     },
     {
       "month": "Upcoming",
@@ -261,6 +251,16 @@
       "callLink": "",
       "qsl": "M0OXO",
       "info": "By GM0GAV fm Futuna I (IOTA OC-118); mainly 40-10m, some 80 60m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov01",
+      "endDate": "2026 Nov03",
+      "entity": "Kenya",
+      "callsign": "5Z4GO/p",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By 5Z4GO fm Wasini I (IOTA AF-067); 20-10m; CW; QRP; QSL: Markus Meyer, Roemerstrasse 6, CH-4148 Pfeffingen, Switzerland"
     },
     {
       "month": "Upcoming",
