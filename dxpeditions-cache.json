@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 20:30:04 UTC",
-  "count": 74,
+  "updated": "2026-10-30 21:00:04 UTC",
+  "count": 75,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -131,6 +131,16 @@
       "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=7M1KJW/JD1",
       "qsl": "LoTW",
       "info": "By 7M1KJW as 7M1KJW/JD1 fm Chichijima; 40-6m; FT8; 10w; vertical; spare time operation; POTA JP-1288 activations, perhaps JP-0015 as well; QSL via 7M1KJW Buro"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Oct25",
+      "endDate": "2026 Dec20",
+      "entity": "Madagascar",
+      "callsign": "5R8IC",
+      "callLink": "https://www.qrz.com/db/5R8IC",
+      "qsl": "LoTW",
+      "info": "By F6ICX fm Ste Marie I (IOTA AF-090); HF; mainly CW, some FT8 (f/h) SSB; planned FT8 QRGs: 7056, 10131, 14090, 18095, 21090, 24911 28090"
     },
     {
       "month": "Upcoming",
