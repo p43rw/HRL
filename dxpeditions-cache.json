@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 19:00:04 UTC",
-  "count": 75,
+  "updated": "2026-10-30 19:30:04 UTC",
+  "count": 74,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -671,16 +671,6 @@
       "callLink": "",
       "qsl": "LoTW",
       "info": "By KB4YKC as J6/KB4YKC and KB4PML as J6/KB4PML; @J68HZ; HF; SSB; holiday style operation"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2027 Mar12",
-      "endDate": "2027 Mar26",
-      "entity": "South Georgia I",
-      "callsign": "VP0SG",
-      "callLink": "https://www.ardxpeditions.com/dxpeditions/vp0sg",
-      "qsl": "M0OXO",
-      "info": "By LA7THA LB1QI LB5GI W0ZB DL3ON EI5LA F4HEC G0VJG G4PVM IU2EFB KN2P LA3BO OE7PGI OK2WX UR8UQ UT5UY; 160-6m; CW SSB + digital and QO100; 6 stns, 24/24 hrs; dates tentative"
     },
     {
       "month": "Upcoming",
