@@ -2,29 +2,29 @@
 <solar>
 	<solardata>
 		<source url="http://www.hamqsl.com/solar.html">N0NBH</source>
-		<updated> 30 Oct 2026 2130 GMT</updated>
-		<solarflux>89</solarflux>
-		<aindex> 4</aindex>
+		<updated> 30 Oct 2026 2159 GMT</updated>
+		<solarflux>90</solarflux>
+		<aindex> 9</aindex>
 		<kindex> 1</kindex>
 		<kindexnt>No Report</kindexnt>
 		<xray>B1.9</xray>
 		<sunspots>36</sunspots>
-		<heliumline>103.8</heliumline>
-		<protonflux>36</protonflux>
-		<electonflux>2810</electonflux>
-		<aurora> 3</aurora>
+		<heliumline>103.9</heliumline>
+		<protonflux>38</protonflux>
+		<electonflux>2920</electonflux>
+		<aurora> 4</aurora>
 		<normalization>1.99</normalization>
-		<latdegree>65.6</latdegree>
-		<solarwind>360.7</solarwind>
-		<magneticfield> -8.4</magneticfield>
+		<latdegree>63.9</latdegree>
+		<solarwind>361.0</solarwind>
+		<magneticfield> -2.2</magneticfield>
 		<calculatedconditions>
 			<band name="80m-40m" time="day">Fair</band>
-			<band name="30m-20m" time="day">Fair</band>
-			<band name="17m-15m" time="day">Poor</band>
+			<band name="30m-20m" time="day">Good</band>
+			<band name="17m-15m" time="day">Fair</band>
 			<band name="12m-10m" time="day">Poor</band>
 			<band name="80m-40m" time="night">Good</band>
-			<band name="30m-20m" time="night">Fair</band>
-			<band name="17m-15m" time="night">Poor</band>
+			<band name="30m-20m" time="night">Good</band>
+			<band name="17m-15m" time="night">Fair</band>
 			<band name="12m-10m" time="night">Poor</band>
 		</calculatedconditions>
 		<calculatedvhfconditions>
