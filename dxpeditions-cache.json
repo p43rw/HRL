@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 04:00:04 UTC",
-  "count": 76,
+  "updated": "2026-10-30 04:30:03 UTC",
+  "count": 75,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -91,16 +91,6 @@
       "callLink": "https://www.qrz.com/db/E51MWA",
       "qsl": "LoTW",
       "info": "By N7QT fm Manihiki I (IOTA OC014); HF; mainly CW; some remote activity by N9ADG N7JP WA7CPA; QSL via M0URX"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct21",
-      "endDate": "2026 Oct29",
-      "entity": "Samoa",
-      "callsign": "5W0ZP",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5W0ZP",
-      "qsl": "LoTW",
-      "info": "By AG4ZP fm Saleia Village (AH36tn); 40-10m; FT8 FT4, perhaps some CW; QRP"
     },
     {
       "month": "Upcoming",
