@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31 04:00:04 UTC",
-  "count": 75,
+  "updated": "2026-10-31 04:30:05 UTC",
+  "count": 74,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -51,16 +51,6 @@
       "callLink": "https://www.qrz.com/db/JD1BQP",
       "qsl": "LoTW",
       "info": "By JP1IHD fm Chichijima I; 160-6m; 200, 100w; EFHW, hexbeam, 6m yagi"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct18",
-      "endDate": "2026 Oct30",
-      "entity": "Vanuatu",
-      "callsign": "YJ0CA",
-      "callLink": "https://www.qrz.com/db/YJ0CA",
-      "qsl": "See Info",
-      "info": "By VK2YUS; 40-10m; SSB; QSL: 3/19-21 Eastern Rd, Turramurra, NSW, 2074, Australia"
     },
     {
       "month": "Upcoming",
@@ -238,7 +228,7 @@
       "endDate": "2026 Nov06",
       "entity": "Grenada",
       "callsign": "J3",
-      "callLink": "",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=J3/N9GB",
       "qsl": "LoTW",
       "info": "By N9GB as J3/N9GB fm Sandals Grenada; 40-6m; CW SSB, some FT8; 100w; OCF dipole; holiday style operation; QSL via Club Log OQRS or EB7DX"
     },
@@ -248,7 +238,7 @@
       "endDate": "2026 Nov14",
       "entity": "Wallis & Futuna",
       "callsign": "FW3GT",
-      "callLink": "",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=FW3GT",
       "qsl": "M0OXO",
       "info": "By GM0GAV fm Futuna I (IOTA OC-118); mainly 40-10m, some 80 60m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
     },
