@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31 16:30:04 UTC",
-  "count": 74,
+  "updated": "2026-10-31 17:00:04 UTC",
+  "count": 75,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -491,6 +491,16 @@
       "callLink": "",
       "qsl": "LoTW",
       "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec10",
+      "endDate": "2026 Dec16",
+      "entity": "Nauru",
+      "callsign": "C21GD",
+      "callLink": "https://www.qrz.com/db/C21GD",
+      "qsl": "LoTW",
+      "info": "By JM1GDA fm RI39ll; 80-6m; CW SSB FT8QSL via Club Log OQRS"
     },
     {
       "month": "Upcoming",
