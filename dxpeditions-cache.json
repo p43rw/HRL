@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01 04:00:04 UTC",
-  "count": 75,
+  "updated": "2026-11-01 04:30:04 UTC",
+  "count": 72,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -31,16 +31,6 @@
       "callLink": "https://www.qrz.com/db/3DA0GY",
       "qsl": "LoTW",
       "info": "By LA9GY fm Piggs Peak; 40-10m; CW SSB; QRV in Worked All Germany SSB and CQWW DX SSB"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct17",
-      "endDate": "2026 Oct31",
-      "entity": "Sao Tome & Principe I",
-      "callsign": "S9R",
-      "callLink": "https://s9r.viacom.ao/",
-      "qsl": "LoTW",
-      "info": "By EC7R D2ACE CT1BOL D2IM CT1BZG CT3MD fm Tamarido; 160-6m, incl 60m; CW SSB RTTY FT8; Spiderbeam, Hexbeam, vertical, end-fed wire, 5 ele yagi on 6m"
     },
     {
       "month": "Upcoming",
@@ -84,16 +74,6 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Oct21",
-      "endDate": "2026 Oct31",
-      "entity": "Gambia",
-      "callsign": "C5A",
-      "callLink": "https://www.qrz.com/db/E70A",
-      "qsl": "E70A",
-      "info": "By E70A; HF + 6m; SSB CW FT8"
-    },
-    {
-      "month": "Upcoming",
       "startDate": "2026 Oct22",
       "endDate": "2026 Dec02",
       "entity": "Mali",
@@ -101,16 +81,6 @@
       "callLink": "https://www.qrz.com/db/TZ4AM",
       "qsl": "LoTW",
       "info": "By KX4R; 80-6m; CW SSB; QSL via KX4R direct; perhaps KX4R last trip to Mali"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct23",
-      "endDate": "2026 Oct31",
-      "entity": "Nepal",
-      "callsign": "9N7XT",
-      "callLink": "https://yct.janlabs.de/dx/nepal2026",
-      "qsl": "LoTW",
-      "info": "By DL4XT fm Kathmandu; 160-10m; CW SSB FT8; 100-500w"
     },
     {
       "month": "Upcoming",
@@ -248,7 +218,7 @@
       "endDate": "2026 Nov03",
       "entity": "Kenya",
       "callsign": "5Z4GO/p",
-      "callLink": "",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5Z4GO/p",
       "qsl": "LoTW",
       "info": "By 5Z4GO fm Wasini I (IOTA AF-067); 20-10m; CW; QRP; QSL: Markus Meyer, Roemerstrasse 6, CH-4148 Pfeffingen, Switzerland"
     },
