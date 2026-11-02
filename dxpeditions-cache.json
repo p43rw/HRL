@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 14:30:04 UTC",
-  "count": 72,
+  "updated": "2026-11-02 15:00:04 UTC",
+  "count": 73,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -240,7 +240,7 @@
       "callsign": "VP2MCV",
       "callLink": "https://www.qrz.com/db/VP2MCV",
       "qsl": "LoTW",
-      "info": "By KG9N fm Gingerbread Hill; HF"
+      "info": "By KG9N fm Gingerbread Hill; HF; QSL via KG9N (B/d)"
     },
     {
       "month": "Upcoming",
@@ -274,8 +274,8 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Nov10",
-      "endDate": "2026 Nov24",
+      "startDate": "2026 Nov11",
+      "endDate": "2026 Nov23",
       "entity": "Guinea",
       "callsign": "3X4U",
       "callLink": "https://rockall.be/",
@@ -470,7 +470,17 @@
       "callsign": "C21GD",
       "callLink": "https://www.qrz.com/db/C21GD",
       "qsl": "LoTW",
-      "info": "By JM1GDA fm RI39ll; 80-6m; CW SSB FT8QSL via Club Log OQRS"
+      "info": "By JM1GDA fm RI39ll; 80-6m; CW SSB FT8 FT4; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec12",
+      "endDate": "2027 Jan02",
+      "entity": "Falkland Is",
+      "callsign": "VP8THW",
+      "callLink": "https://www.qrz.com/db/VP8THW",
+      "qsl": "LoTW",
+      "info": "By DL7HW; 40 20 17 15 12 10m, focus on 40m; SSB FT8; QSL via DL7HW Buro"
     },
     {
       "month": "Upcoming",
