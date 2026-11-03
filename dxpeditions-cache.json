@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 05:00:04 UTC",
-  "count": 73,
+  "updated": "2026-11-03 05:30:04 UTC",
+  "count": 71,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -21,26 +21,6 @@
       "callLink": "https://www.qrz.com/db/H44MS",
       "qsl": "LoTW",
       "info": "By DL2GAC; 80-10m; mainly FT8, some SSB; QSL via DL2GAC (B/d)"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct15",
-      "endDate": "2026 Nov02",
-      "entity": "eSwatini",
-      "callsign": "3DA0GY",
-      "callLink": "https://www.qrz.com/db/3DA0GY",
-      "qsl": "LoTW",
-      "info": "By LA9GY fm Piggs Peak; 40-10m; CW SSB; QRV in Worked All Germany SSB and CQWW DX SSB"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct17",
-      "endDate": "2026 Nov02",
-      "entity": "Ogasawara",
-      "callsign": "JD1BQP",
-      "callLink": "https://www.qrz.com/db/JD1BQP",
-      "qsl": "LoTW",
-      "info": "By JP1IHD fm Chichijima I; 160-6m; 200, 100w; EFHW, hexbeam, 6m yagi"
     },
     {
       "month": "Upcoming",
