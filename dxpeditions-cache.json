@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 05:00:04 UTC",
-  "count": 71,
+  "updated": "2026-11-04 05:30:04 UTC",
+  "count": 70,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -191,16 +191,6 @@
       "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=FW3GT",
       "qsl": "M0OXO",
       "info": "By GM0GAV fm Futuna I (IOTA OC-118); mainly 40-10m, some 80 60m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov01",
-      "endDate": "2026 Nov03",
-      "entity": "Kenya",
-      "callsign": "5Z4GO/p",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=5Z4GO/p",
-      "qsl": "LoTW",
-      "info": "By 5Z4GO fm Wasini I (IOTA AF-067); 20-10m; CW; QRP; QSL: Markus Meyer, Roemerstrasse 6, CH-4148 Pfeffingen, Switzerland"
     },
     {
       "month": "Upcoming",
