@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-05 05:00:04 UTC",
-  "count": 70,
+  "updated": "2026-11-05 05:30:04 UTC",
+  "count": 68,
   "dxpeditions": [
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct01",
-      "endDate": "2026 Nov04",
-      "entity": "Gambia",
-      "callsign": "C5R",
-      "callLink": "https://www.qrz.com/db/C5R",
-      "qsl": "YU5R Direct",
-      "info": "By YU5R F5RAV E70A; HF; for QSL, include SAE; QRV in CQWW DX SSB"
-    },
     {
       "month": "Upcoming",
       "startDate": "2026 Oct03",
@@ -61,16 +51,6 @@
       "callLink": "https://www.qrz.com/db/TZ4AM",
       "qsl": "LoTW",
       "info": "By KX4R; 80-6m; CW SSB; QSL via KX4R direct; perhaps KX4R last trip to Mali"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct25",
-      "endDate": "2026 Nov04",
-      "entity": "Ogasawara",
-      "callsign": "JD1",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=7M1KJW/JD1",
-      "qsl": "LoTW",
-      "info": "By 7M1KJW as 7M1KJW/JD1 fm Chichijima; 40-6m; FT8; 10w; vertical; spare time operation; POTA JP-1288 activations, perhaps JP-0015 as well; QSL via 7M1KJW Buro"
     },
     {
       "month": "Upcoming",
