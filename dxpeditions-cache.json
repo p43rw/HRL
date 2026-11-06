@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 05:00:04 UTC",
-  "count": 68,
+  "updated": "2026-11-06 05:30:04 UTC",
+  "count": 67,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -111,16 +111,6 @@
       "callLink": "https://www.i2ysb.com/idt/",
       "qsl": "LoTW",
       "info": "By IV3FSG I1FQH I1HJT I2PJA I2YSB IK2AQZ IK2CKR IK2HKT as 6W/I2YSB and 6W/IK2HKT; 160-6m; CW SSB RTTY FT8; QSL via I2YSB"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct30",
-      "endDate": "2026 Nov05",
-      "entity": "Vanuatu",
-      "callsign": "YJ0SP",
-      "callLink": "https://www.qrz.com/db/YJ0SP",
-      "qsl": "VK2SP",
-      "info": "By VK2SP fm Port Vila; HF"
     },
     {
       "month": "Upcoming",
