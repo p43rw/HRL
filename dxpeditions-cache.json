@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 17:30:04 UTC",
+  "updated": "2026-11-06 18:00:04 UTC",
   "count": 67,
   "dxpeditions": [
     {
@@ -161,16 +161,6 @@
       "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=FW3GT",
       "qsl": "M0OXO",
       "info": "By GM0GAV fm Futuna I (IOTA OC-118); mainly 40-10m, some 80 60m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov01",
-      "endDate": "2026 Nov30",
-      "entity": "Juan Fernandez Is",
-      "callsign": "XR0Z",
-      "callLink": "https://www.xr0z.net/",
-      "qsl": "LoTW",
-      "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101) for 10 days during the first half of October; 160-6m; CW SSB FT8; QSL via M0UXR"
     },
     {
       "month": "Upcoming",
@@ -361,6 +351,16 @@
       "callLink": "https://www.qrz.com/db/K6VHF/HR9",
       "qsl": "LoTW",
       "info": "By K6VHF as K6VHF/HR9 fm Roatan I (IOTA NA-057); 160-6m; all modes; 100w; hexbeam, longwire, delta, beam; QSL OK via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov25",
+      "endDate": "2026 Dec06",
+      "entity": "Juan Fernandez Is",
+      "callsign": "XR0Z",
+      "callLink": "https://www.xr0z.net/",
+      "qsl": "LoTW",
+      "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101, EF96of); 160-6m; CW SSB FT8; QSL via M0UXR"
     },
     {
       "month": "Upcoming",
