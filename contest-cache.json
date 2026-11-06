@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 18:00:03 UTC",
-  "count": 361,
+  "updated": "2026-11-06 18:30:03 UTC",
+  "count": 369,
   "contests": [
     {
       "month": "October 2026",
@@ -1467,10 +1467,17 @@
     },
     {
       "month": "December 2026",
-      "title": "ICWC Medium Speed Test",
+      "title": "QCX Challenge",
       "time": "1300Z-1400Z, Dec 28",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
       "description": "1300Z-1400Z, Dec 28 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "OK1WC Memorial (MWC)",
+      "time": "1630Z-1729Z, Dec 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
+      "description": "1630Z-1729Z, Dec 28 — December 2026"
     },
     {
       "month": "December 2026",
@@ -1481,38 +1488,45 @@
     },
     {
       "month": "December 2026",
-      "title": "ICWC Medium Speed Test",
+      "title": "QCX Challenge",
       "time": "0300Z-0400Z, Dec 29",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
       "description": "0300Z-0400Z, Dec 29 — December 2026"
     },
     {
       "month": "December 2026",
-      "title": "Phone Weekly Test",
-      "time": "0230Z-0300Z, Dec 30",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
-      "description": "0230Z-0300Z, Dec 30 — December 2026"
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Dec 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Dec 29 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Dec 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Dec 30 — December 2026"
+    },
+    {
+      "month": "December 2026",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Dec 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Dec 30 — December 2026"
     },
     {
       "month": "December 2026",
       "title": "CWops Test (CWT)",
-      "time": "1300Z-1400Z, Dec 30",
+      "time": "1900Z-2000Z, Dec 30",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "1300Z-1400Z, Dec 30 — December 2026"
-    },
-    {
-      "month": "December 2026",
-      "title": "Mini-Test 80",
-      "time": "1800Z-1859Z, Dec 30",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
-      "description": "1800Z-1859Z, Dec 30 — December 2026"
+      "description": "1900Z-2000Z, Dec 30 — December 2026"
     },
     {
       "month": "December 2026",
       "title": "CWops Test (CWT)",
-      "time": "0300Z-0400Z, Dec 31",
+      "time": "0700Z-0800Z, Dec 31",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "0300Z-0400Z, Dec 31 — December 2026"
+      "description": "0700Z-0800Z, Dec 31 — December 2026"
     },
     {
       "month": "January 2027",
@@ -1558,6 +1572,20 @@
     },
     {
       "month": "January 2027",
+      "title": "VHF-UHF FT8 Activity Contest-NA",
+      "time": "0000Z-0500Z, Jan 7",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
+      "description": "0000Z-0500Z, Jan 7 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NRAU 10m Activity Contest",
+      "time": "1800Z-1900Z, Jan 7 (CW) and 1900Z-2000Z, Jan 7 (SSB) and 2000Z-2100Z, Jan 7 (FM) and 2100Z-2200Z, Jan 7 (Dig)",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=562",
+      "description": "1800Z-1900Z, Jan 7 (CW) and 1900Z-2000Z, Jan 7 (SSB) and 2000Z-2100Z, Jan 7 (FM) and 2100Z-2200Z, Jan 7 (Dig) — January 2027"
+    },
+    {
+      "month": "January 2027",
       "title": "YB DX Contest",
       "time": "0000Z-2359Z, Jan 9",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=621",
@@ -1586,6 +1614,13 @@
     },
     {
       "month": "January 2027",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Jan 13",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Jan 13 — January 2027"
+    },
+    {
+      "month": "January 2027",
       "title": "Hungarian DX Contest",
       "time": "1200Z, Jan 16 to 1200Z, Jan 17",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=228",
@@ -1607,6 +1642,13 @@
     },
     {
       "month": "January 2027",
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Jan 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Jan 20 — January 2027"
+    },
+    {
+      "month": "January 2027",
       "title": "NAQCC CW Sprint",
       "time": "0130Z-0330Z, Jan 21",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=358",
@@ -1621,17 +1663,31 @@
     },
     {
       "month": "January 2027",
-      "title": "SKCC Sprint",
-      "time": "0000Z-0200Z, Jan 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
-      "description": "0000Z-0200Z, Jan 27 — January 2027"
+      "title": "QCX Challenge",
+      "time": "1300Z-1400Z, Jan 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "1300Z-1400Z, Jan 25 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "REF Contest, CW",
-      "time": "0600Z, Jan 30 to 1800Z, Jan 31",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=233",
-      "description": "0600Z, Jan 30 to 1800Z, Jan 31 — January 2027"
+      "title": "QCX Challenge",
+      "time": "0300Z-0400Z, Jan 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "0300Z-0400Z, Jan 26 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "CQ 160-Meter Contest, CW",
+      "time": "2200Z, Jan 29 to 2159Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=232",
+      "description": "2200Z, Jan 29 to 2159Z, Jan 31 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "UBA DX Contest, SSB",
+      "time": "1300Z, Jan 30 to 1300Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=235",
+      "description": "1300Z, Jan 30 to 1300Z, Jan 31 — January 2027"
     },
     {
       "month": "February 2027",
