@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07 23:00:03 UTC",
-  "count": 371,
+  "updated": "2026-11-07 23:30:03 UTC",
+  "count": 372,
   "contests": [
     {
       "month": "October 2026",
@@ -1545,9 +1545,9 @@
     {
       "month": "January 2027",
       "title": "PODXS 070 Club PSKFest",
-      "time": "0000Z-2359Z, Jan 2",
+      "time": "0000Z-2400Z, Jan 2",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=267",
-      "description": "0000Z-2359Z, Jan 2 — January 2027"
+      "description": "0000Z-2400Z, Jan 2 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1558,10 +1558,10 @@
     },
     {
       "month": "January 2027",
-      "title": "ARRL RTTY Roundup",
-      "time": "1800Z, Jan 2 to 2400Z, Jan 3",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=217",
-      "description": "1800Z, Jan 2 to 2400Z, Jan 3 — January 2027"
+      "title": "ARRL Kids Day",
+      "time": "1800Z-2359Z, Jan 2",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=224",
+      "description": "1800Z-2359Z, Jan 2 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1601,16 +1601,16 @@
     {
       "month": "January 2027",
       "title": "North American QSO Party, CW",
-      "time": "1800Z, Jan 9 to 0600Z, Jan 10",
+      "time": "1800Z, Jan 9 to 0559Z, Jan 10",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=218",
-      "description": "1800Z, Jan 9 to 0600Z, Jan 10 — January 2027"
+      "description": "1800Z, Jan 9 to 0559Z, Jan 10 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "DARC 10-Meter Contest",
-      "time": "0900Z-1059Z, Jan 10",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=223",
-      "description": "0900Z-1059Z, Jan 10 — January 2027"
+      "title": "NRAU-Baltic Contest, CW",
+      "time": "0830Z-1030Z, Jan 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=220",
+      "description": "0830Z-1030Z, Jan 10 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1629,9 +1629,9 @@
     {
       "month": "January 2027",
       "title": "Hungarian DX Contest",
-      "time": "1200Z, Jan 16 to 1200Z, Jan 17",
+      "time": "1200Z, Jan 16 to 1159Z, Jan 17",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=228",
-      "description": "1200Z, Jan 16 to 1200Z, Jan 17 — January 2027"
+      "description": "1200Z, Jan 16 to 1159Z, Jan 17 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1642,45 +1642,52 @@
     },
     {
       "month": "January 2027",
-      "title": "ARRL January VHF Contest",
-      "time": "1900Z, Jan 16 to 0359Z, Jan 18",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=231",
-      "description": "1900Z, Jan 16 to 0359Z, Jan 18 — January 2027"
+      "title": "NA Collegiate Championship, SSB",
+      "time": "1800Z, Jan 16 to 0559Z, Jan 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=640",
+      "description": "1800Z, Jan 16 to 0559Z, Jan 17 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "Run for the Bacon QRP Contest",
-      "time": "2300Z, Jan 17 to 0100Z, Jan 18",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=385",
-      "description": "2300Z, Jan 17 to 0100Z, Jan 18 — January 2027"
+      "title": "Feld Hell Sprint",
+      "time": "2000Z, Jan 16 to 0559Z, Jan 17",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=436",
+      "description": "2000Z, Jan 16 to 0559Z, Jan 17 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "VHF-UHF FT8 Activity Contest-NA",
-      "time": "0000Z-0500Z, Jan 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
-      "description": "0000Z-0500Z, Jan 21 — January 2027"
+      "title": "VHF-UHF FT8 Activity Contest",
+      "time": "1700Z-2100Z, Jan 20",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=674",
+      "description": "1700Z-2100Z, Jan 20 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "NAQCC CW Sprint",
-      "time": "0130Z-0330Z, Jan 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=358",
-      "description": "0130Z-0330Z, Jan 21 — January 2027"
+      "title": "Walk for the Bacon QRP Contest",
+      "time": "0000Z-0100Z, Jan 21 and 0200Z-0300Z, Jan 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=699",
+      "description": "0000Z-0100Z, Jan 21 and 0200Z-0300Z, Jan 22 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "BARTG RTTY Sprint",
-      "time": "1200Z, Jan 23 to 1200Z, Jan 24",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=230",
-      "description": "1200Z, Jan 23 to 1200Z, Jan 24 — January 2027"
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Jan 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Jan 21 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "Winter Field Day",
+      "time": "1600Z, Jan 23 to 2159Z, Jan 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=421",
+      "description": "1600Z, Jan 23 to 2159Z, Jan 24 — January 2027"
     },
     {
       "month": "January 2027",
       "title": "QCX Challenge",
-      "time": "1300Z-1400Z, Jan 25",
+      "time": "1900Z-2000Z, Jan 25",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
-      "description": "1300Z-1400Z, Jan 25 — January 2027"
+      "description": "1900Z-2000Z, Jan 25 — January 2027"
     },
     {
       "month": "January 2027",
