@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07 17:00:05 UTC",
-  "count": 64,
+  "updated": "2026-11-07 17:30:03 UTC",
+  "count": 65,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -164,7 +164,7 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Nov09",
+      "startDate": "2026 Nov10",
       "endDate": "2026 Nov20",
       "entity": "Mozambique",
       "callsign": "C8K",
@@ -200,7 +200,7 @@
       "callsign": "D44JB",
       "callLink": "https://www.qrz.com/db/D44JB",
       "qsl": "LoTW",
-      "info": "By EI8JB fm Santo Antao I (HK77le); 80-10m; focus on SSB FT8; vertical, fan dipole; QSL via Club Log OQRS"
+      "info": "By EI8JB fm Santo Antao I (HK77le); 80-10m; focus on SSB FT8; vertical, fan dipole; holiday style operation; QSL via Club Log OQRS"
     },
     {
       "month": "Upcoming",
@@ -331,6 +331,16 @@
       "callLink": "https://www.xr0z.net/",
       "qsl": "LoTW",
       "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101, EF96of); 160-6m; CW SSB FT8; QSL via M0URX"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov26",
+      "endDate": "2026 Dec01",
+      "entity": "Micronesia",
+      "callsign": "V6AIU",
+      "callLink": "https://www.qrz.com/db/V6AIU",
+      "qsl": "Club Log OQRS",
+      "info": "By JH3AIU fm Truk, Weno I;  80-10m; C"
     },
     {
       "month": "Upcoming",
