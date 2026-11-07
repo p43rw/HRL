@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 22:30:03 UTC",
+  "updated": "2026-11-07 23:00:03 UTC",
   "count": 371,
   "contests": [
     {
@@ -1566,9 +1566,9 @@
     {
       "month": "January 2027",
       "title": "EUCW 160m Contest",
-      "time": "2000Z, Jan 2 to 0700Z, Jan 3",
+      "time": "2000Z-2300Z, Jan 2 and 0400Z-0700Z, Jan 3",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=219",
-      "description": "2000Z, Jan 2 to 0700Z, Jan 3 — January 2027"
+      "description": "2000Z-2300Z, Jan 2 and 0400Z-0700Z, Jan 3 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1607,10 +1607,10 @@
     },
     {
       "month": "January 2027",
-      "title": "NRAU-Baltic Contest, CW",
-      "time": "0900Z-1100Z, Jan 10",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=220",
-      "description": "0900Z-1100Z, Jan 10 — January 2027"
+      "title": "DARC 10-Meter Contest",
+      "time": "0900Z-1059Z, Jan 10",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=223",
+      "description": "0900Z-1059Z, Jan 10 — January 2027"
     },
     {
       "month": "January 2027",
@@ -1692,9 +1692,9 @@
     {
       "month": "January 2027",
       "title": "CQ 160-Meter Contest, CW",
-      "time": "2200Z, Jan 29 to 2159Z, Jan 31",
+      "time": "2200Z, Jan 29 to 2200Z, Jan 31",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=232",
-      "description": "2200Z, Jan 29 to 2159Z, Jan 31 — January 2027"
+      "description": "2200Z, Jan 29 to 2200Z, Jan 31 — January 2027"
     },
     {
       "month": "January 2027",
