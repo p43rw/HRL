@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09 16:30:04 UTC",
-  "count": 65,
+  "updated": "2026-11-09 17:00:04 UTC",
+  "count": 64,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -161,16 +161,6 @@
       "callLink": "https://www.qrz.com/db/5X7W",
       "qsl": "LoTW",
       "info": "By SM0HPL; also using 5X1Q when running QRP; 80-10m; slow CW FT8 FT4; QRV for CQWW DX CW; QSL via M0OXO or Club Log OQRS"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov10",
-      "endDate": "2026 Nov20",
-      "entity": "Mozambique",
-      "callsign": "C8K",
-      "callLink": "https://www.cdxp.cz/",
-      "qsl": "LoTW",
-      "info": "By OK1BOA OK1FCJ OK1CRM OK1GK OK2ZA OK2ZC OK2ZI OK6DJ; 160-6m, incl 60m, focus on low bands; SSB CW RTTY FT8 FT4 PSK; QSL via Club Log OQRS or OK6DJ"
     },
     {
       "month": "Upcoming",
