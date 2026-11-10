@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10 16:00:04 UTC",
-  "count": 64,
+  "updated": "2026-11-10 16:30:04 UTC",
+  "count": 65,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -601,6 +601,16 @@
       "callLink": "https://lhi-2027.topdx.de/",
       "qsl": "LoTW",
       "info": "By DL2AWG DF4GV DL2AMD DL2SAX DL1KWK DL6RY DL4VK DJ7TO EA5GVH DL4SVA; HF + 6m; SSB CW + digital; 4 stns, 24/7; QSL via Club Log OQRS or DL2AWG"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 May27",
+      "endDate": "2027 Jun03",
+      "entity": "St Kitts & Nevis",
+      "callsign": "V4",
+      "callLink": "",
+      "qsl": "LoTW",
+      "info": "By WW6W as V4/WW6W fm St Kitts I; QRV for CQWW WPX CW contest; QSL via WW6W"
     },
     {
       "month": "Upcoming",
