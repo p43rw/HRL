@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10 05:00:04 UTC",
-  "count": 65,
+  "updated": "2026-11-10 05:30:04 UTC",
+  "count": 64,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -91,16 +91,6 @@
       "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
       "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct28",
-      "endDate": "2026 Nov09",
-      "entity": "Senegal",
-      "callsign": "6W",
-      "callLink": "https://www.i2ysb.com/idt/",
-      "qsl": "LoTW",
-      "info": "By IV3FSG I1FQH I1HJT I2PJA I2YSB IK2AQZ IK2CKR IK2HKT as 6W/I2YSB and 6W/IK2HKT; 160-6m; CW SSB RTTY FT8; QSL via I2YSB"
     },
     {
       "month": "Upcoming",
