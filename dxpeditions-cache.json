@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09 23:30:04 UTC",
-  "count": 64,
+  "updated": "2026-11-10 00:00:04 UTC",
+  "count": 65,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -631,6 +631,16 @@
       "callLink": "https://cqdx.my/9m8t/",
       "qsl": "LoTW",
       "info": "By 9M8WIN 9M8BAT 9M2WAZ 9M2MAD 9M2RSI 9M2DOC 9M2SPN 9M8LJW 9W8VYY fm Big Talang-Talang I, Sarawak, (IOTA OC-165, OJ41vv); 80-6m, perhaps 160m; CW SSB + FT modes; QSL via Club Log OQRS, 9W8ZZK direct (include 4USD)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Jun26",
+      "endDate": "2027 Jul13",
+      "entity": "St Pierre & Miquelon",
+      "callsign": "FP",
+      "callLink": "https://www.kv1j.com/fp/July27.html",
+      "qsl": "LoTW",
+      "info": "By KV1J as FP/KV1J; 80-6m; SSB CW FT8; QSL via Club Log OQRS or KV1J direct; QRV for IARU contest"
     },
     {
       "month": "Upcoming",
