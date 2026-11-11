@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11 18:00:04 UTC",
-  "count": 360,
+  "updated": "2026-11-11 18:30:04 UTC",
+  "count": 361,
   "contests": [
     {
       "month": "November 2026",
@@ -1362,150 +1362,157 @@
     },
     {
       "month": "January 2027",
-      "title": "VHF-UHF FT8 Activity Contest-NA",
-      "time": "0000Z-0500Z, Jan 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=784",
-      "description": "0000Z-0500Z, Jan 21 — January 2027"
+      "title": "AWA Linc Cundall Memorial CW Contest",
+      "time": "2300Z, Jan 20 to 2300Z, Jan 21 and 2300Z, Jan 23 to 2300Z, Jan 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=496",
+      "description": "2300Z, Jan 20 to 2300Z, Jan 21 and 2300Z, Jan 23 to 2300Z, Jan 24 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "NAQCC CW Sprint",
-      "time": "0130Z-0330Z, Jan 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=358",
-      "description": "0130Z-0330Z, Jan 21 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "CWops Test (CWT)",
-      "time": "0700Z-0800Z, Jan 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "0700Z-0800Z, Jan 21 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "NCCC FT4 Sprint",
-      "time": "0100Z-0130Z, Jan 22",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
-      "description": "0100Z-0130Z, Jan 22 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "QRP Fox Hunt",
-      "time": "0200Z-0330Z, Jan 22",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
-      "description": "0200Z-0330Z, Jan 22 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "K1USN Slow Speed Test",
-      "time": "2000Z-2100Z, Jan 22",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
-      "description": "2000Z-2100Z, Jan 22 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "Winter Field Day",
-      "time": "1600Z, Jan 23 to 2159Z, Jan 24",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=421",
-      "description": "1600Z, Jan 23 to 2159Z, Jan 24 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "QCX Challenge",
-      "time": "1300Z-1400Z, Jan 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
-      "description": "1300Z-1400Z, Jan 25 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "OK1WC Memorial (MWC)",
-      "time": "1630Z-1729Z, Jan 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
-      "description": "1630Z-1729Z, Jan 25 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "ICWC Medium Speed Test",
-      "time": "1900Z-2000Z, Jan 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
-      "description": "1900Z-2000Z, Jan 25 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "Worldwide Sideband Activity Contest",
-      "time": "0100Z-0159Z, Jan 26",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
-      "description": "0100Z-0159Z, Jan 26 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "ICWC Medium Speed Test",
-      "time": "0300Z-0400Z, Jan 26",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
-      "description": "0300Z-0400Z, Jan 26 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "SKCC Sprint",
-      "time": "0000Z-0200Z, Jan 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
-      "description": "0000Z-0200Z, Jan 27 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "Phone Weekly Test",
-      "time": "0230Z-0300Z, Jan 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
-      "description": "0230Z-0300Z, Jan 27 — January 2027"
+      "title": "Walk for the Bacon QRP Contest",
+      "time": "0000Z-0100Z, Jan 21 and 0200Z-0300Z, Jan 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=699",
+      "description": "0000Z-0100Z, Jan 21 and 0200Z-0300Z, Jan 22 — January 2027"
     },
     {
       "month": "January 2027",
       "title": "CWops Test (CWT)",
-      "time": "1300Z-1400Z, Jan 27",
+      "time": "0300Z-0400Z, Jan 21",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "1300Z-1400Z, Jan 27 — January 2027"
+      "description": "0300Z-0400Z, Jan 21 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "Mini-Test 80",
-      "time": "1800Z-1859Z, Jan 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
-      "description": "1800Z-1859Z, Jan 27 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "UKEICC 80m Contest",
-      "time": "2000Z-2100Z, Jan 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=583",
-      "description": "2000Z-2100Z, Jan 27 — January 2027"
-    },
-    {
-      "month": "January 2027",
-      "title": "CWops Test (CWT)",
-      "time": "0700Z-0800Z, Jan 28",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "0700Z-0800Z, Jan 28 — January 2027"
+      "title": "NTC QSO Party",
+      "time": "1900Z-2000Z, Jan 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=713",
+      "description": "1900Z-2000Z, Jan 21 — January 2027"
     },
     {
       "month": "January 2027",
       "title": "Weekly RTTY Test",
-      "time": "0145Z-0215Z, Jan 29",
+      "time": "0145Z-0215Z, Jan 22",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
-      "description": "0145Z-0215Z, Jan 29 — January 2027"
+      "description": "0145Z-0215Z, Jan 22 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Jan 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Jan 22 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "BARTG RTTY Sprint",
+      "time": "1200Z, Jan 23 to 1200Z, Jan 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=230",
+      "description": "1200Z, Jan 23 to 1200Z, Jan 24 — January 2027"
     },
     {
       "month": "January 2027",
       "title": "K1USN Slow Speed Test",
-      "time": "2000Z-2100Z, Jan 29",
+      "time": "0000Z-0100Z, Jan 25",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
-      "description": "2000Z-2100Z, Jan 29 — January 2027"
+      "description": "0000Z-0100Z, Jan 25 — January 2027"
     },
     {
       "month": "January 2027",
-      "title": "REF Contest, CW",
-      "time": "0600Z, Jan 30 to 1800Z, Jan 31",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=233",
-      "description": "0600Z, Jan 30 to 1800Z, Jan 31 — January 2027"
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Jan 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Jan 25 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "QCX Challenge",
+      "time": "1900Z-2000Z, Jan 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "1900Z-2000Z, Jan 25 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "Australia Day Contest",
+      "time": "2200Z, Jan 25 to 1000Z, Jan 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=714",
+      "description": "2200Z, Jan 25 to 1000Z, Jan 26 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "QCX Challenge",
+      "time": "0300Z-0400Z, Jan 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
+      "description": "0300Z-0400Z, Jan 26 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "Tuesday's Telegraphy Contest",
+      "time": "1930Z-2030Z, Jan 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
+      "description": "1930Z-2030Z, Jan 26 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "QRP Fox Hunt",
+      "time": "0200Z-0330Z, Jan 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
+      "description": "0200Z-0330Z, Jan 27 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "A1Club AWT",
+      "time": "1145Z-1300Z, Jan 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
+      "description": "1145Z-1300Z, Jan 27 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "Mini-Test 40",
+      "time": "1700Z-1759Z, Jan 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
+      "description": "1700Z-1759Z, Jan 27 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "CWops Test (CWT)",
+      "time": "1900Z-2000Z, Jan 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1900Z-2000Z, Jan 27 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "CWops Test (CWT)",
+      "time": "0300Z-0400Z, Jan 28",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0300Z-0400Z, Jan 28 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Jan 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Jan 29 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Jan 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Jan 29 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "CQ 160-Meter Contest, CW",
+      "time": "2200Z, Jan 29 to 2200Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=232",
+      "description": "2200Z, Jan 29 to 2200Z, Jan 31 — January 2027"
+    },
+    {
+      "month": "January 2027",
+      "title": "UBA DX Contest, SSB",
+      "time": "1300Z, Jan 30 to 1300Z, Jan 31",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=235",
+      "description": "1300Z, Jan 30 to 1300Z, Jan 31 — January 2027"
     },
     {
       "month": "February 2027",
