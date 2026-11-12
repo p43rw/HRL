@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12 05:00:04 UTC",
-  "count": 65,
+  "updated": "2026-11-12 05:30:04 UTC",
+  "count": 63,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -105,16 +105,6 @@
     {
       "month": "Upcoming",
       "startDate": "2026 Oct31",
-      "endDate": "2026 Nov11",
-      "entity": "Rwanda",
-      "callsign": "9X5KM",
-      "callLink": "https://www.qrz.com/db/9X5KM",
-      "qsl": "LoTW",
-      "info": "By F8FUA; HF w/ focus on low bands; Hex beam, dipoles, verticals; holiday style operation; QSL via F8FUA direct (w/ 3GS + SAE) or by Buro free"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct31",
       "endDate": "2026 Nov14",
       "entity": "Wallis & Futuna",
       "callsign": "FW3GT",
@@ -131,16 +121,6 @@
       "callLink": "https://www.qrz.com/db/VP2MCV",
       "qsl": "LoTW",
       "info": "By KG9N fm Gingerbread Hill; HF; QSL via KG9N (B/d)"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov04",
-      "endDate": "2026 Nov11",
-      "entity": "Cape Verde Is",
-      "callsign": "D44PX",
-      "callLink": "https://www.qrz.com/db/D44PX",
-      "qsl": "LoTW",
-      "info": "By IZ2DPX fm Boa Vista (HK86mc); 60-6m; SSB FT8 FT4; 100w; vertical, dipoles; QSL via Club Log OQRS"
     },
     {
       "month": "Upcoming",
