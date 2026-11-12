@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12 01:30:04 UTC",
+  "updated": "2026-11-12 02:00:04 UTC",
   "regions": [
     {
       "region_code": "EU-W",
       "name": "Western Europe (North Sea / UK)",
       "pressure": 1002.9,
-      "score": 20,
+      "score": 19,
       "status": "Normal / Weak (Level 1)",
       "live_verified": true
     },
