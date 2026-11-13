@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 19:00:05 UTC",
-  "count": 63,
+  "updated": "2026-11-13 19:30:05 UTC",
+  "count": 64,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -151,6 +151,16 @@
       "callLink": "https://www.qrz.com/db/D44JB",
       "qsl": "LoTW",
       "info": "By EI8JB fm Santo Antao I (HK77le); 80-10m; focus on SSB FT8; vertical, fan dipole; holiday style operation; QSL via Club Log OQRS"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov14",
+      "endDate": "2026 Nov19",
+      "entity": "Norfolk I",
+      "callsign": "VK9NA",
+      "callLink": "https://www.qrz.com/db/VK9NA",
+      "qsl": "VK3XPD",
+      "info": "By VK3XPD VK3RU fm IOTA OC-005; 40-6m; CW SSB FT8; holiday style operation"
     },
     {
       "month": "Upcoming",
