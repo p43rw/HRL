@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 05:00:04 UTC",
-  "count": 63,
+  "updated": "2026-11-13 05:30:04 UTC",
+  "count": 62,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -91,16 +91,6 @@
       "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
       "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct30",
-      "endDate": "2026 Nov12",
-      "entity": "American Samoa",
-      "callsign": "KH8A",
-      "callLink": "https://kh8a.mydx.de/",
-      "qsl": "Club Log OQRS",
-      "info": "By DJ9KH DK5WL DL1KWK DL2RNS DL4SVA DL6KAC DL6KVA DL7JOM DL7VEE fm IOTA OC-045 (AH45op); 160-6m; CW SSB FT8 RTTY; LoTW after 6 mos; see Web for full QSL details"
     },
     {
       "month": "Upcoming",
