@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 13:30:04 UTC",
-  "count": 62,
+  "updated": "2026-11-13 14:00:04 UTC",
+  "count": 63,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -551,6 +551,16 @@
       "callLink": "",
       "qsl": "See Info",
       "info": "By JM1LIG JO3LVG JG1LFF as T88FM T88MK T88XM fm Koror I (IOTA OC-009, PJ77fi); HF; QSL: T88FM via JM1LIG, T88MK via JO3LVG (B/d), T88XM via LoTW or JG1LFF (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2027 Apr12",
+      "endDate": "2027 Apr22",
+      "entity": "South Cook Is",
+      "callsign": "E51RAR",
+      "callLink": "https://www.qrz.com/db/E51RAR",
+      "qsl": "LoTW",
+      "info": "By WA7RAR fm Rarotonga I; 20-10m; SSB CW; POTA activation; QSL via WA7RAR direct"
     },
     {
       "month": "Upcoming",
