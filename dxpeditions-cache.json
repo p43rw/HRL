@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14 15:30:04 UTC",
-  "count": 64,
+  "updated": "2026-11-14 16:00:04 UTC",
+  "count": 65,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -111,6 +111,16 @@
       "callLink": "https://www.qrz.com/db/VP2MCV",
       "qsl": "LoTW",
       "info": "By KG9N fm Gingerbread Hill; HF; QSL via KG9N (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov08",
+      "endDate": "2026 Nov21",
+      "entity": "Mozambique",
+      "callsign": "C8K",
+      "callLink": "https://www.cdxp.cz/",
+      "qsl": "LoTW",
+      "info": "By OK1BOA OK1FCJ OK1CRM OK1GK OK2ZA OK2ZC OK2ZI OK6DJ; 160-6m, incl 60m, focus on low bands; SSB CW RTTY FT8 FT4 PSK; QSL via Club Log OQRS or OK6DJ"
     },
     {
       "month": "Upcoming",
