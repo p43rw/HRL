@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15 05:00:04 UTC",
-  "count": 65,
+  "updated": "2026-11-15 05:30:04 UTC",
+  "count": 64,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -91,16 +91,6 @@
       "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
       "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct31",
-      "endDate": "2026 Nov14",
-      "entity": "Wallis & Futuna",
-      "callsign": "FW3GT",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=FW3GT",
-      "qsl": "M0OXO",
-      "info": "By GM0GAV fm Futuna I (IOTA OC-118); mainly 40-10m; CW FT8; 600w; vertical; good take-off to EU, poor to NA and SA"
     },
     {
       "month": "Upcoming",
