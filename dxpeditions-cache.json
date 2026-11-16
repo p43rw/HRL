@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 15:30:04 UTC",
-  "count": 63,
+  "updated": "2026-11-16 16:00:04 UTC",
+  "count": 65,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -164,6 +164,16 @@
     },
     {
       "month": "Upcoming",
+      "startDate": "2026 Nov14",
+      "endDate": "2026 Nov22",
+      "entity": "St Kitts & Nevis",
+      "callsign": "V4",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=V4/KE4TT",
+      "qsl": "LoTW",
+      "info": "By KE4TT as V4/KE4TT; 40-10m; RTTY FT8 CW SSB; 100w; perhaps POTA activity; holiday sytle operation"
+    },
+    {
+      "month": "Upcoming",
       "startDate": "2026 Nov15",
       "endDate": "2026 Nov22",
       "entity": "Ecuador",
@@ -290,7 +300,17 @@
       "callsign": "V6AIU",
       "callLink": "https://www.qrz.com/db/V6AIU",
       "qsl": "Club Log OQRS",
-      "info": "By JH3AIU fm Truk, Weno I;  80-10m; C"
+      "info": "By JH3AIU fm Truk, Weno I;  80-10m; CW FT8 RTTY; 300-600w"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov26",
+      "endDate": "2026 Dec31",
+      "entity": "Falkland Is",
+      "callsign": "VP8TAA",
+      "callLink": "https://www.qrz.com/db/VP8TAA",
+      "qsl": "VP8TAA",
+      "info": "By MW0KZN; mainly 40-10m, perhaps lower bands; SSB FT8 QRS CW; QSL via MW0KZN direct; operation to continue until Feb 27"
     },
     {
       "month": "Upcoming",

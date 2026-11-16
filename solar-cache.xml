@@ -2,21 +2,21 @@
 <solar>
 	<solardata>
 		<source url="http://www.hamqsl.com/solar.html">N0NBH</source>
-		<updated> 16 Nov 2026 1529 GMT</updated>
+		<updated> 16 Nov 2026 1558 GMT</updated>
 		<solarflux>122</solarflux>
 		<aindex> 4</aindex>
-		<kindex> 0</kindex>
+		<kindex> 1</kindex>
 		<kindexnt>No Report</kindexnt>
 		<xray>B6.5</xray>
 		<sunspots>95</sunspots>
 		<heliumline>117.0</heliumline>
-		<protonflux>12</protonflux>
-		<electonflux>3100</electonflux>
+		<protonflux>11</protonflux>
+		<electonflux>2740</electonflux>
 		<aurora> 2</aurora>
 		<normalization>1.99</normalization>
 		<latdegree>66.5</latdegree>
-		<solarwind>312.0</solarwind>
-		<magneticfield> -1.3</magneticfield>
+		<solarwind>310.7</solarwind>
+		<magneticfield>  1.1</magneticfield>
 		<calculatedconditions>
 			<band name="80m-40m" time="day">Fair</band>
 			<band name="30m-20m" time="day">Good</band>
@@ -34,7 +34,7 @@
 			<phenomenon name="E-Skip" location="europe_6m">Band Closed</phenomenon>
 			<phenomenon name="E-Skip" location="europe_4m">Band Closed</phenomenon>
 		</calculatedvhfconditions>
-		<geomagfield>INACTIVE</geomagfield>
+		<geomagfield>VR QUIET</geomagfield>
 		<signalnoise>S0-S1</signalnoise>
 		<fof2></fof2>
 		<muffactor></muffactor>
