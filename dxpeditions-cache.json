@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 05:00:04 UTC",
-  "count": 64,
+  "updated": "2026-11-16 05:30:04 UTC",
+  "count": 63,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -131,16 +131,6 @@
       "callLink": "https://rockall.be/",
       "qsl": "M0URX OQRS",
       "info": "By 10 ON/PA ops fm Lac de Koba; 160-6m; CW SSB FT8 RTTY; 5 stns; 1kw; 2 hexbeams, phased verticals, foursquare, verticals; LoTW after 6 months"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov13",
-      "endDate": "2026 Nov15",
-      "entity": "Ceuta & Melilla",
-      "callsign": "EG9MM",
-      "callLink": "https://www.qrz.com/db/EG9MM",
-      "qsl": "LoTW",
-      "info": "By EA4GHH EA4HUK EA4IWX EA3JAQ fm Melilla; 80-10m; SSB + digital"
     },
     {
       "month": "Upcoming",
