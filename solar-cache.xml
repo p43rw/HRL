@@ -2,20 +2,20 @@
 <solar>
 	<solardata>
 		<source url="http://www.hamqsl.com/solar.html">N0NBH</source>
-		<updated> 16 Nov 2026 2129 GMT</updated>
-		<solarflux>122</solarflux>
-		<aindex> 4</aindex>
+		<updated> 16 Nov 2026 2200 GMT</updated>
+		<solarflux>123</solarflux>
+		<aindex> 5</aindex>
 		<kindex> 0</kindex>
 		<kindexnt>No Report</kindexnt>
 		<xray>B7.7</xray>
 		<sunspots>95</sunspots>
-		<heliumline>116.8</heliumline>
-		<protonflux>10</protonflux>
-		<electonflux>2590</electonflux>
+		<heliumline>117.1</heliumline>
+		<protonflux>11</protonflux>
+		<electonflux>2280</electonflux>
 		<aurora> 1</aurora>
 		<normalization>1.99</normalization>
 		<latdegree>67.5</latdegree>
-		<solarwind>311.3</solarwind>
+		<solarwind>314.5</solarwind>
 		<magneticfield>  2.3</magneticfield>
 		<calculatedconditions>
 			<band name="80m-40m" time="day">Fair</band>
