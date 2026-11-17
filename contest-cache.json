@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 01:00:03 UTC",
+  "updated": "2026-11-17 01:30:03 UTC",
   "count": 361,
   "contests": [
     {
@@ -368,135 +368,135 @@
     },
     {
       "month": "November 2026",
-      "title": "All Austrian 160-Meter Contest",
-      "time": "1600Z-2359Z, Nov 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=188",
-      "description": "1600Z-2359Z, Nov 21 — November 2026"
+      "title": "NRRL Telephony Contest",
+      "time": "1300Z-1500Z, Nov 21 and 0700Z-0900Z, Nov 22 and 1300Z-1500Z, Nov 22",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=790",
+      "description": "1300Z-1500Z, Nov 21 and 0700Z-0900Z, Nov 22 and 1300Z-1500Z, Nov 22 — November 2026"
     },
     {
       "month": "November 2026",
-      "title": "South American Integration Contest CW",
-      "time": "1800Z, Nov 21 to 2100Z, Nov 22",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=728",
-      "description": "1800Z, Nov 21 to 2100Z, Nov 22 — November 2026"
+      "title": "REF 160-Meter Contest",
+      "time": "1700Z-2400Z, Nov 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=606",
+      "description": "1700Z-2400Z, Nov 21 — November 2026"
     },
     {
       "month": "November 2026",
-      "title": "RSGB 1.8 MHz Contest",
-      "time": "2000Z-2300Z, Nov 21",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=252",
-      "description": "2000Z-2300Z, Nov 21 — November 2026"
+      "title": "Feld Hell Sprint",
+      "time": "1900Z-2059Z, Nov 21",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=436",
+      "description": "1900Z-2059Z, Nov 21 — November 2026"
     },
     {
       "month": "November 2026",
-      "title": "K1USN Slow Speed Test",
-      "time": "0000Z-0100Z, Nov 23",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
-      "description": "0000Z-0100Z, Nov 23 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "OK1WC Memorial (MWC)",
-      "time": "1630Z-1729Z, Nov 23",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
-      "description": "1630Z-1729Z, Nov 23 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "Worldwide Sideband Activity Contest",
-      "time": "0100Z-0159Z, Nov 24",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=672",
-      "description": "0100Z-0159Z, Nov 24 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "Tuesday's Telegraphy Contest",
-      "time": "1930Z-2030Z, Nov 24",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=788",
-      "description": "1930Z-2030Z, Nov 24 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "QRP Fox Hunt",
-      "time": "0200Z-0330Z, Nov 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=518",
-      "description": "0200Z-0330Z, Nov 25 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "A1Club AWT",
-      "time": "1145Z-1300Z, Nov 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=715",
-      "description": "1145Z-1300Z, Nov 25 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "Mini-Test 40",
-      "time": "1700Z-1759Z, Nov 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=711",
-      "description": "1700Z-1759Z, Nov 25 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "CWops Test (CWT)",
-      "time": "1900Z-2000Z, Nov 25",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "1900Z-2000Z, Nov 25 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "CWops Test (CWT)",
-      "time": "0300Z-0400Z, Nov 26",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
-      "description": "0300Z-0400Z, Nov 26 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "RSGB 80m Autumn Series, CW",
-      "time": "2000Z-2130Z, Nov 26",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=458",
-      "description": "2000Z-2130Z, Nov 26 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "Weekly RTTY Test",
-      "time": "0145Z-0215Z, Nov 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=753",
-      "description": "0145Z-0215Z, Nov 27 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "K1USN Slow Speed Test",
-      "time": "2000Z-2100Z, Nov 27",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
-      "description": "2000Z-2100Z, Nov 27 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "CQ Worldwide DX Contest, CW",
-      "time": "0000Z, Nov 28 to 2400Z, Nov 29",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=192",
-      "description": "0000Z, Nov 28 to 2400Z, Nov 29 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "QCX Challenge",
-      "time": "1300Z-1400Z, Nov 30",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
-      "description": "1300Z-1400Z, Nov 30 — November 2026"
-    },
-    {
-      "month": "November 2026",
-      "title": "OK1WC Memorial (MWC)",
-      "time": "1630Z-1729Z, Nov 30",
-      "link": "https://www.contestcalendar.com/contestdetails.php?ref=683",
-      "description": "1630Z-1729Z, Nov 30 — November 2026"
+      "title": "ARRL Sweepstakes Contest, SSB",
+      "time": "2100Z, Nov 21 to 0300Z, Nov 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=178",
+      "description": "2100Z, Nov 21 to 0300Z, Nov 23 — November 2026"
     },
     {
       "month": "November 2026",
       "title": "ICWC Medium Speed Test",
-      "time": "1900Z-2000Z, Nov 30",
+      "time": "1300Z-1400Z, Nov 23",
       "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 23 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1900Z-2000Z, Nov 23",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1900Z-2000Z, Nov 23 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "0300Z-0400Z, Nov 24",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "0300Z-0400Z, Nov 24 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "SKCC Sprint",
+      "time": "0000Z-0200Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=425",
+      "description": "0000Z-0200Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Phone Weekly Test",
+      "time": "0230Z-0300Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=593",
+      "description": "0230Z-0300Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "1300Z-1400Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "1300Z-1400Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "Mini-Test 80",
+      "time": "1800Z-1859Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=712",
+      "description": "1800Z-1859Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "UKEICC 80m Contest",
+      "time": "2000Z-2100Z, Nov 25",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=583",
+      "description": "2000Z-2100Z, Nov 25 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "CWops Test (CWT)",
+      "time": "0700Z-0800Z, Nov 26",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=498",
+      "description": "0700Z-0800Z, Nov 26 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC FT4 Sprint",
+      "time": "0100Z-0130Z, Nov 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=741",
+      "description": "0100Z-0130Z, Nov 27 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "NCCC Sprint",
+      "time": "0230Z-0300Z, Nov 27",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=44",
+      "description": "0230Z-0300Z, Nov 27 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ARRL EME Contest",
+      "time": "0000Z, Nov 28 to 2359Z, Nov 29",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=417",
+      "description": "0000Z, Nov 28 to 2359Z, Nov 29 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "K1USN Slow Speed Test",
+      "time": "0000Z-0100Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=681",
+      "description": "0000Z-0100Z, Nov 30 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "ICWC Medium Speed Test",
+      "time": "1300Z-1400Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=720",
+      "description": "1300Z-1400Z, Nov 30 — November 2026"
+    },
+    {
+      "month": "November 2026",
+      "title": "QCX Challenge",
+      "time": "1900Z-2000Z, Nov 30",
+      "link": "https://www.contestcalendar.com/contestdetails.php?ref=644",
       "description": "1900Z-2000Z, Nov 30 — November 2026"
     },
     {
