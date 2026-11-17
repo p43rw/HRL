@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 00:30:04 UTC",
+  "updated": "2026-11-17 01:00:04 UTC",
   "regions": [
     {
       "region_code": "EU-W",
@@ -12,7 +12,7 @@
     {
       "region_code": "US-E",
       "name": "US Northeast & Mid-Atlantic",
-      "pressure": 1029.1,
+      "pressure": 1029.2,
       "score": 79,
       "status": "Verified Active Opening (Level 3)",
       "live_verified": true
@@ -20,8 +20,8 @@
     {
       "region_code": "US-W",
       "name": "US West Coast / Pacific",
-      "pressure": 1019.5,
-      "score": 48,
+      "pressure": 1018.8,
+      "score": 46,
       "status": "Moderate Ducting (Level 2)",
       "live_verified": true
     }
