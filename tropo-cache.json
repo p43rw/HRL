@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-17 06:30:05 UTC",
+  "updated": "2026-11-17 07:00:05 UTC",
   "regions": [
     {
       "region_code": "EU-W",
       "name": "Western Europe (North Sea / UK)",
-      "pressure": 1001.2,
+      "pressure": 1001.0,
       "score": 19,
       "status": "Normal / Weak (Level 1)",
       "live_verified": true
