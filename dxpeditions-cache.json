@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 19:00:05 UTC",
-  "count": 63,
+  "updated": "2026-11-17 19:30:04 UTC",
+  "count": 62,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -181,16 +181,6 @@
       "callLink": "https://www.qrz.com/db/VK9DS",
       "qsl": "?",
       "info": "By VK6DS; 80-6m; SSB CW FT8; logs will be uploaded to Club Log and QRZ upon his return home"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov20",
-      "endDate": "2026 Nov22",
-      "entity": "Ecuador",
-      "callsign": "HD4W",
-      "callLink": "https://www.qrz.com/db/HD4W",
-      "qsl": "Club Log OQRS",
-      "info": "By PY8WW fm Cojimies I (IOTA SA-056); 40-6m; SSB CW FT8"
     },
     {
       "month": "Upcoming",
