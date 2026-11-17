@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 05:00:04 UTC",
-  "count": 65,
+  "updated": "2026-11-17 05:30:03 UTC",
+  "count": 63,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -31,16 +31,6 @@
       "callLink": "https://www.qrz.com/db/3B9KW",
       "qsl": "LoTW",
       "info": "By M0CFW as 3B9/M0CFW; 160-6m; CW SSB + digital; QRV for CQWW DX SSB using 3B9KW"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct21",
-      "endDate": "2026 Nov16",
-      "entity": "North Cook Is",
-      "callsign": "E51MWA",
-      "callLink": "https://www.qrz.com/db/E51MWA",
-      "qsl": "LoTW",
-      "info": "By N7QT fm Manihiki I (IOTA OC014); HF; mainly CW; some remote activity by N9ADG N7JP WA7CPA; QSL via M0URX"
     },
     {
       "month": "Upcoming",
@@ -91,16 +81,6 @@
       "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
       "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov03",
-      "endDate": "2026 Nov16",
-      "entity": "Montserrat",
-      "callsign": "VP2MCV",
-      "callLink": "https://www.qrz.com/db/VP2MCV",
-      "qsl": "LoTW",
-      "info": "By KG9N fm Gingerbread Hill; HF; QSL via KG9N (B/d)"
     },
     {
       "month": "Upcoming",
