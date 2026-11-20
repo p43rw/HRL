@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 19:30:05 UTC",
+  "updated": "2026-11-20 20:00:04 UTC",
   "count": 60,
   "dxpeditions": [
     {
@@ -205,16 +205,6 @@
     {
       "month": "Upcoming",
       "startDate": "2026 Nov23",
-      "endDate": "2026 Nov30",
-      "entity": "Sint Maartin",
-      "callsign": "PJ7WW",
-      "callLink": "",
-      "qsl": "LoTW",
-      "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov23",
       "endDate": "2026 Dec01",
       "entity": "Surinam",
       "callsign": "PZ5KW",
@@ -290,7 +280,7 @@
       "callsign": "VP2V",
       "callLink": "",
       "qsl": "LoTW",
-      "info": "By WE9G as VP2V/WE9G fm Tortola; 160-6m; QSL via WE9G direcct"
+      "info": "By WE9G as VP2V/WE9G fm Tortola; 80-6m; mainly FT8, some CW SSB; QSL via WE9G direcct"
     },
     {
       "month": "Upcoming",
@@ -301,6 +291,16 @@
       "callLink": "",
       "qsl": "LoTW",
       "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Dec03",
+      "endDate": "2026 Dec15",
+      "entity": "Mauritius",
+      "callsign": "3B8GY",
+      "callLink": "https://www.qrz.com/db/3B8GY",
+      "qsl": "Club Log OQRS",
+      "info": "By SP2JMB; 40-10m; QSL via SP2JMB direct"
     },
     {
       "month": "Upcoming",
@@ -320,7 +320,7 @@
       "callsign": "VP8THW",
       "callLink": "https://www.qrz.com/db/VP8THW",
       "qsl": "LoTW",
-      "info": "By DL7HW; 40 20 17 15 12 10m, focus on 40m; SSB FT8; QSL via DL7HW Buro"
+      "info": "By DL7HW; 40 20 17 15 12 10m, focus on 40 20mm; SSB FT8; QSL via DL7HW Buro"
     },
     {
       "month": "Upcoming",
