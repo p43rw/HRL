@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 19:00:04 UTC",
+  "updated": "2026-11-21 19:30:04 UTC",
   "count": 58,
   "dxpeditions": [
     {
@@ -204,13 +204,13 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Nov25",
-      "endDate": "2026 Dec06",
+      "startDate": "2026 Dec05",
+      "endDate": "2026 Dec15",
       "entity": "Juan Fernandez Is",
       "callsign": "XR0Z",
       "callLink": "https://www.xr0z.net/",
       "qsl": "LoTW",
-      "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101, EF96of); 160-6m; CW SSB FT8; QSL via M0URX"
+      "info": "By CE3VTZ XQ7I fm Alexander Selkirk I (IOTA SA-101, EF96of); 160-6m; CW SSB FT8; QSL via M0URX; dates estimated"
     },
     {
       "month": "Upcoming",
