@@ -1,17 +1,7 @@
 {
-  "updated": "2026-11-21 05:00:04 UTC",
-  "count": 60,
+  "updated": "2026-11-21 05:30:04 UTC",
+  "count": 58,
   "dxpeditions": [
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct03",
-      "endDate": "2026 Nov20",
-      "entity": "Solomon Is",
-      "callsign": "H44MS",
-      "callLink": "https://www.qrz.com/db/H44MS",
-      "qsl": "LoTW",
-      "info": "By DL2GAC; 80-10m; mainly FT8, some SSB; QSL via DL2GAC (B/d)"
-    },
     {
       "month": "Upcoming",
       "startDate": "2026 Oct20",
@@ -101,16 +91,6 @@
       "callLink": "https://rockall.be/",
       "qsl": "M0URX OQRS",
       "info": "By 10 ON/PA ops fm Lac de Koba; 160-6m; CW SSB FT8 RTTY; 5 stns; 1kw; 2 hexbeams, phased verticals, foursquare, verticals; LoTW after 6 months"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov13",
-      "endDate": "2026 Nov20",
-      "entity": "Cape Verde Is",
-      "callsign": "D44JB",
-      "callLink": "https://www.qrz.com/db/D44JB",
-      "qsl": "LoTW",
-      "info": "By EI8JB fm Santo Antao I (HK77le); 80-10m; focus on SSB FT8; vertical, fan dipole; holiday style operation; QSL via Club Log OQRS"
     },
     {
       "month": "Upcoming",
