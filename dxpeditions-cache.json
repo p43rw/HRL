@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22 05:00:04 UTC",
-  "count": 58,
+  "updated": "2026-11-22 05:30:04 UTC",
+  "count": 57,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -61,16 +61,6 @@
       "callLink": "https://www.qrz.com/db/NY9K",
       "qsl": "LoTW",
       "info": "By NY9K as VP2V/NY9K fm Virgin Gorda and Tortola; 40-10m; FT8; POTA VG-0016; some operations have been maritime mobile"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov08",
-      "endDate": "2026 Nov21",
-      "entity": "Mozambique",
-      "callsign": "C8K",
-      "callLink": "https://www.cdxp.cz/",
-      "qsl": "LoTW",
-      "info": "By OK1BOA OK1FCJ OK1CRM OK1GK OK2ZA OK2ZC OK2ZI OK6DJ; 160-6m, incl 60m, focus on low bands; SSB CW RTTY FT8 FT4 PSK; QSL via Club Log OQRS or OK6DJ"
     },
     {
       "month": "Upcoming",
@@ -168,7 +158,7 @@
       "endDate": "2026 Dec05",
       "entity": "St Helena",
       "callsign": "ZD7",
-      "callLink": "",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=ZD7WP",
       "qsl": "LoTW",
       "info": "By G4BWP as ZD7WP and 5Z4VJ as ZD7VJ; HF, incl 60m; CW SSB FT8; QRV for CQWW DX CW"
     },
