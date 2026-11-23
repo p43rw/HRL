@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23 05:00:04 UTC",
-  "count": 57,
+  "updated": "2026-11-23 05:30:04 UTC",
+  "count": 54,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -84,36 +84,6 @@
     },
     {
       "month": "Upcoming",
-      "startDate": "2026 Nov14",
-      "endDate": "2026 Nov22",
-      "entity": "South Cook Is",
-      "callsign": "E51A",
-      "callLink": "https://www.yt1ad.info/dxped.html",
-      "qsl": "YT5A (B/d)",
-      "info": "By YT5A fm Rarotonga I; HF; CW SSB FT8; holiday style operation"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov14",
-      "endDate": "2026 Nov22",
-      "entity": "St Kitts & Nevis",
-      "callsign": "V4",
-      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=V4/KE4TT",
-      "qsl": "LoTW",
-      "info": "By KE4TT as V4/KE4TT; 40-10m; RTTY FT8 CW SSB; 100w; perhaps POTA activity; holiday sytle operation"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov15",
-      "endDate": "2026 Nov22",
-      "entity": "Ecuador",
-      "callsign": "HD4W",
-      "callLink": "https://www.qrz.com/db/HD4W",
-      "qsl": "Club Log OQRS",
-      "info": "By PY8WW fm Cojimies I (IOTA SA-056); 40-6m; SSB CW FT8"
-    },
-    {
-      "month": "Upcoming",
       "startDate": "2026 Nov16",
       "endDate": "2026 Dec04",
       "entity": "Christmas I",
@@ -178,7 +148,7 @@
       "endDate": "2026 Dec01",
       "entity": "Surinam",
       "callsign": "PZ5KW",
-      "callLink": "",
+      "callLink": "http://www.dxwatch.com/dxsd1.php?f=0&t=dx&c=PZ5KW",
       "qsl": "PE1K",
       "info": "By PE1K fm Paramaibo; HF; FT8 SSB; holiday style operation"
     },
