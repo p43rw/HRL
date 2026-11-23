@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 16:30:04 UTC",
+  "updated": "2026-11-23 17:00:03 UTC",
   "count": 54,
   "dxpeditions": [
     {
@@ -111,6 +111,16 @@
       "callLink": "https://www.qrz.com/db/E70A",
       "qsl": "LoTW",
       "info": "By 3B8/E70A; HF; QSL via E70A (B/d)"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov21",
+      "endDate": "2026 Dec31",
+      "entity": "Cambodia",
+      "callsign": "XU7O",
+      "callLink": "https://www.qrz.com/db/XU7O",
+      "qsl": "DL4WK",
+      "info": "By DL7BO; HF, incl 60m; FT8; sporadic operation over next 3 months"
     },
     {
       "month": "Upcoming",
@@ -231,16 +241,6 @@
       "callLink": "",
       "qsl": "LoTW",
       "info": "By DL1MGB; 160-10m; CW; QSL via Club Log OQRS or DL1MGB (B/d)"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Dec03",
-      "endDate": "2026 Dec15",
-      "entity": "Mauritius",
-      "callsign": "3B8GY",
-      "callLink": "https://www.qrz.com/db/3B8GY",
-      "qsl": "Club Log OQRS",
-      "info": "By SP2JMB; 40-10m; QSL via SP2JMB direct"
     },
     {
       "month": "Upcoming",
