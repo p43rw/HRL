@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25 05:00:04 UTC",
-  "count": 54,
+  "updated": "2026-11-25 05:30:04 UTC",
+  "count": 53,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -71,16 +71,6 @@
       "callLink": "https://www.qrz.com/db/5X7W",
       "qsl": "LoTW",
       "info": "By SM0HPL; also using 5X1Q when running QRP; 80-10m; slow CW FT8 FT4; QRV for CQWW DX CW; QSL via M0OXO or Club Log OQRS"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Nov11",
-      "endDate": "2026 Nov24",
-      "entity": "Guinea",
-      "callsign": "3X4U",
-      "callLink": "https://rockall.be/",
-      "qsl": "M0URX OQRS",
-      "info": "By 10 ON/PA ops fm Lac de Koba; 160-6m; CW SSB FT8 RTTY; 5 stns; 1kw; 2 hexbeams, phased verticals, foursquare, verticals; LoTW after 6 months"
     },
     {
       "month": "Upcoming",
