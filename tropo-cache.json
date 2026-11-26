@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-25 23:30:04 UTC",
+  "updated": "2026-11-26 00:00:04 UTC",
   "regions": [
     {
       "region_code": "EU-W",
       "name": "Western Europe (North Sea / UK)",
-      "pressure": 1019.6,
-      "score": 45,
+      "pressure": 1020.7,
+      "score": 50,
       "status": "Moderate Ducting (Level 2)",
       "live_verified": true
     },
     {
       "region_code": "US-E",
       "name": "US Northeast & Mid-Atlantic",
-      "pressure": 1033.0,
-      "score": 82,
-      "status": "Verified Active Opening (Level 3)",
+      "pressure": 1037.8,
+      "score": 69,
+      "status": "Moderate Ducting (Level 2)",
       "live_verified": true
     },
     {
       "region_code": "US-W",
       "name": "US West Coast / Pacific",
-      "pressure": 1018.5,
-      "score": 45,
+      "pressure": 1022.0,
+      "score": 54,
       "status": "Moderate Ducting (Level 2)",
       "live_verified": true
     }
