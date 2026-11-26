@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26 05:00:05 UTC",
-  "count": 53,
+  "updated": "2026-11-26 05:30:04 UTC",
+  "count": 52,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -31,16 +31,6 @@
       "callLink": "https://www.qrz.com/db/5R8IC",
       "qsl": "LoTW",
       "info": "By F6ICX fm Ste Marie I (IOTA AF-090); HF; mainly CW, some FT8 (f/h) SSB; planned FT8 QRGs: 7056, 10131, 14090, 18095, 21090, 24911 28090"
-    },
-    {
-      "month": "Upcoming",
-      "startDate": "2026 Oct26",
-      "endDate": "2026 Nov25",
-      "entity": "Lesotho",
-      "callsign": "7P8EA",
-      "callLink": "https://www.qrz.com/db/7P8EA",
-      "qsl": "HB9CCS",
-      "info": "By HB9CCS fm Thaba-Tseka (KG0hl); 20-10m; CW SSB"
     },
     {
       "month": "Upcoming",
