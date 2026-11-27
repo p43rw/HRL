@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27 20:30:03 UTC",
-  "count": 52,
+  "updated": "2026-11-27 21:00:05 UTC",
+  "count": 53,
   "dxpeditions": [
     {
       "month": "Upcoming",
@@ -181,6 +181,16 @@
       "callLink": "https://www.qrz.com/db/VP8TAA",
       "qsl": "VP8TAA",
       "info": "By MW0KZN; mainly 40-10m, perhaps lower bands; SSB FT8 QRS CW; QSL via MW0KZN direct; operation to continue until Feb 27"
+    },
+    {
+      "month": "Upcoming",
+      "startDate": "2026 Nov26",
+      "endDate": "2027 Jan06",
+      "entity": "Falkland Is",
+      "callsign": "VP8TAB",
+      "callLink": "https://www.qrz.com/db/VP8TAA",
+      "qsl": "VP8TAB",
+      "info": "By MW0DST; 40-10m; SSB FT8; QSL via MS7DST"
     },
     {
       "month": "Upcoming",
