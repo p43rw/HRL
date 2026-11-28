@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28 01:00:05 UTC",
+  "updated": "2026-11-28 01:30:05 UTC",
   "regions": [
     {
       "region_code": "EU-W",
@@ -12,15 +12,15 @@
     {
       "region_code": "US-E",
       "name": "US Northeast & Mid-Atlantic",
-      "pressure": 1000.2,
-      "score": 21,
+      "pressure": 1000.1,
+      "score": 23,
       "status": "Normal / Weak (Level 1)",
       "live_verified": true
     },
     {
       "region_code": "US-W",
       "name": "US West Coast / Pacific",
-      "pressure": 1020.3,
+      "pressure": 1020.4,
       "score": 49,
       "status": "Moderate Ducting (Level 2)",
       "live_verified": true
